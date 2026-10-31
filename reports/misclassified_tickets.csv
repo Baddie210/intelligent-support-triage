@@ -1,0 +1,11 @@
+text,actual_label,predicted_label
+What should I do if I suspect that my account has been compromised?,api,billing
+"I've tried every endpoint listed, but my data isn't coming through. What's going on?",api,technical
+I'm not receiving any updates for my tasks; what's the deal with that?,technical,api
+"I want to cancel my subscription, but I still see a charge. Can you assist me with that?",billing,cancellation
+I’m trying to figure out if my plan covers everything I need without extra charges.,billing,upgrade
+Please ensure that I’m not billed again after this month.,cancellation,billing
+I tried to cancel my subscription but still got billed. Can you assist me with this?,billing,cancellation
+What happens if I miss a payment? I want to avoid any penalties.,billing,upgrade
+"I thought upgrading was supposed to be straightforward, but I'm confused. Can you guide me?",upgrade,billing
+"I tried to pay my invoice, but the system keeps giving me an error.",billing,technical

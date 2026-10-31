@@ -1,0 +1,7 @@
+,api,billing,cancellation,complaint,technical,upgrade
+api,195,1,0,0,1,0
+billing,0,195,1,0,1,0
+cancellation,0,1,186,0,0,0
+complaint,0,0,0,195,0,0
+technical,1,0,0,0,197,0
+upgrade,0,0,0,0,0,196

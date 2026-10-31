@@ -1,0 +1,1171 @@
+text,actual,predicted,confidence,second_category,second_score,score_gap,correct
+I need instructions on how to cancel my subscription right away.,cancellation,cancellation,0.9511800752853805,upgrade,0.015194360194097416,0.9359857150912831,True
+I’d like to know why I was billed for two transactions this week.,billing,billing,0.9517842743153574,complaint,0.019144720965950848,0.9326395533494065,True
+I’m seriously reconsidering my choice to use your services.,complaint,complaint,0.5021658952234749,api,0.19010450658280828,0.31206138864066657,True
+I'm struggling with the OAuth flow; can you explain it step by step?,api,api,0.6096834092681099,technical,0.11073547444426707,0.49894793482384286,True
+I'm considering moving from Basic to Pro. What steps do I need to take?,upgrade,upgrade,0.8170635501641277,api,0.0570905481281162,0.7599730020360115,True
+I can't believe how unresponsive your support team is.,complaint,complaint,0.9445664622945222,api,0.01993163052462935,0.9246348317698929,True
+My app regularly crashes when I try to use the camera feature.,technical,technical,0.9679340069361734,api,0.0219034976097126,0.9460305093264608,True
+What’s included when I upgrade to the Enterprise plan?,upgrade,upgrade,0.9915147212780075,technical,0.003554272502272165,0.9879604487757354,True
+"Honestly, I think your support team needs serious training.",complaint,complaint,0.9093997397608262,api,0.02731514919275072,0.8820845905680755,True
+The calendar feature isn’t sending out reminders anymore. What gives?,technical,technical,0.8686489645864728,api,0.04500653902747069,0.8236424255590021,True
+The app crashes every time I try to open the settings menu. This is really frustrating!,technical,technical,0.9867822967608885,complaint,0.008890354978167973,0.9778919417827205,True
+I'm interested in the additional features with the Business plan. Can you tell me more?,upgrade,upgrade,0.9637898865277176,billing,0.009684659881652041,0.9541052266460656,True
+I’m getting a pop-up saying 'System Error' every time I try to log in. What does that mean?,technical,technical,0.9261036087509098,api,0.03314942046982364,0.8929541882810862,True
+"I was supposed to receive a discount, but it’s not showing up on my invoice.",billing,billing,0.810310514038468,technical,0.0972188819566417,0.7130916320818262,True
+The integration with my calendar is broken; I can’t sync any events.,technical,technical,0.6327685413550984,api,0.21179080844271786,0.42097773291238055,True
+How can I receive notifications for events via webhooks?,api,api,0.7157334967695951,technical,0.07239752989640486,0.6433359668731902,True
+I was really hoping for better support; this has been a letdown.,complaint,complaint,0.9299156570881892,billing,0.03232398452562292,0.8975916725625663,True
+What should I know before I decide to downgrade my subscription?,upgrade,upgrade,0.8489304726615688,billing,0.05124566810987426,0.7976848045516945,True
+"I want to make sure my subscription doesn't renew. Cancel it, please.",cancellation,cancellation,0.9840889690876718,billing,0.007600517941865526,0.9764884511458063,True
+I’m not sure what the recurring charges on my account are for. Can you clarify?,billing,billing,0.8324452738433624,api,0.05527852654509112,0.7771667472982713,True
+Can you process my cancellation request? I'm not renewing.,cancellation,cancellation,0.8788145087804998,api,0.04286644633238076,0.835948062448119,True
+I’ve been double charged for my subscription this month. What can I do about it?,billing,billing,0.9418979707803642,cancellation,0.01944917054665579,0.9224488002337085,True
+Why does my API request return a 403 error?,api,api,0.9427020451793271,technical,0.02096674193271599,0.9217353032466111,True
+"My settings won't save, and I’m getting really frustrated trying to update them.",technical,technical,0.7449406559221592,api,0.07303110872527037,0.6719095471968888,True
+Can you explain the purpose of each endpoint in a bit more detail?,api,api,0.49058852495623806,billing,0.2299935432515647,0.2605949817046733,True
+The feature to add comments isn’t visible on my screen. Is it down?,technical,technical,0.8751473712134036,billing,0.03776019102589882,0.8373871801875048,True
+"I want to stop any future charges on my account, so please cancel it.",cancellation,cancellation,0.9772161751075804,billing,0.01309115832131345,0.9641250167862669,True
+"This just isn't working for me, please cancel my account.",cancellation,cancellation,0.9694960345360112,technical,0.012641777134259123,0.9568542574017521,True
+How do I switch from a monthly payment plan to an annual one without losing my data?,upgrade,upgrade,0.9375606919467181,billing,0.023127579260244696,0.9144331126864734,True
+"I don't want to continue with this service, so please cancel my account.",cancellation,cancellation,0.9974401933335398,complaint,0.001011985359100711,0.9964282079744391,True
+Could you send me a detailed invoice for my last payment? I need it for my records.,billing,billing,0.9818160185251498,api,0.006262156404865425,0.9755538621202844,True
+What should I do if my API key gets compromised?,api,api,0.9783889876618656,billing,0.008835979831465359,0.9695530078304002,True
+Can I get my billing cycle adjusted? It’s really inconvenient right now.,billing,billing,0.6026672916447475,technical,0.14493579290513775,0.4577314987396098,True
+"I just got a pop-up saying there's a connection error, but my internet is fine.",technical,technical,0.7003584556247283,api,0.09127932542062056,0.6090791302041078,True
+The font on the website looks messed up; it’s hard to read.,technical,technical,0.810912946493402,api,0.05748768450240082,0.7534252619910011,True
+I would like to downgrade my account. How can I do that?,upgrade,upgrade,0.7173015414506705,cancellation,0.19605694346755506,0.5212445979831154,True
+Can you ensure that my subscription is cancelled today?,cancellation,cancellation,0.7881704707601892,billing,0.10255445953607524,0.685616011224114,True
+The callback URL for my webhook isn't triggering as expected. Any tips?,api,api,0.8903839948857893,technical,0.033422735324916165,0.8569612595608732,True
+"The connection keeps dropping, making it impossible to get work done.",technical,technical,0.8119389407843016,complaint,0.0789769193657013,0.7329620214186003,True
+I'm frustrated because my API calls return empty responses. What should I check?,api,api,0.9529097515678976,billing,0.018958665899021506,0.9339510856688761,True
+Can you cancel my subscription? I won’t be needing it anymore.,cancellation,cancellation,0.9703586983258744,billing,0.012205852346568685,0.9581528459793057,True
+"I had set up autopay, but I didn't think it would charge me this much.",billing,billing,0.44236541075841423,complaint,0.3455614467486438,0.09680396400977043,True
+How do I ensure my requests are compliant with your API guidelines?,api,api,0.9691353913019002,complaint,0.010351050670973326,0.9587843406309269,True
+I need clarification on my recent invoice – the charges don’t match what I expected.,billing,billing,0.9462927231120455,api,0.016244965769932108,0.9300477573421134,True
+"I've been so patient, but this is just too much to handle now.",complaint,complaint,0.932209837624319,technical,0.02394882272193777,0.9082610149023812,True
+What kind of customer service is this? I feel ignored.,complaint,complaint,0.9567616483908384,api,0.012901118185975403,0.943860530204863,True
+I'm thinking about switching to the Family plan; what do I need to do?,upgrade,upgrade,0.9546198627138924,api,0.018274284462518522,0.9363455782513739,True
+"I was promised help, but it never came. Very frustrating!",complaint,complaint,0.7805832824647752,billing,0.08839863527445817,0.692184647190317,True
+It’s frustrating to keep repeating myself without any resolution in sight.,complaint,complaint,0.5283486998096107,technical,0.19247772395903484,0.3358709758505759,True
+What happens to my data if I decide to downgrade my subscription?,upgrade,upgrade,0.9518092135789632,cancellation,0.014661006330016766,0.9371482072489464,True
+"I just wanted a simple answer, but it's been a mess trying to get it.",complaint,complaint,0.757543221527951,technical,0.11321189595322734,0.6443313255747236,True
+I shouldn’t have to chase after support like this.,complaint,complaint,0.8549604065333299,technical,0.040193991944218736,0.8147664145891113,True
+I'm having trouble connecting to the API. Can you help me out?,api,api,0.9128977079901236,technical,0.03009581354014559,0.882801894449978,True
+"I just received my invoice, and it doesn’t match my records. Can you help me fix it?",billing,billing,0.8468690379441375,technical,0.058398243330746266,0.7884707946133912,True
+The report generation tool throws an error every time I try to run it.,technical,technical,0.9295291782584939,complaint,0.020452394006121064,0.9090767842523728,True
+I found an error in my billing statement. How do I get this corrected?,billing,billing,0.8190018103370216,api,0.05564833616436755,0.763353474172654,True
+It's incredibly disheartening to see such a decline in your support services.,complaint,complaint,0.8740705928828795,api,0.03649426090766752,0.837576331975212,True
+Can I go back to the free plan from the Pro? What's the catch?,upgrade,upgrade,0.8163566325703416,api,0.06571463687800264,0.750641995692339,True
+Can you take care of my cancellation request? I appreciate it.,cancellation,cancellation,0.8125506875683567,billing,0.062050046012515146,0.7505006415558415,True
+Your support has not only been slow but also unhelpful. This is frustrating.,complaint,complaint,0.981871305726747,technical,0.007600859513810061,0.9742704462129369,True
+My invoice looks incorrect. It's showing charges for services I didn’t use.,billing,billing,0.9073299884201929,technical,0.03765643770053913,0.8696735507196537,True
+What’s the best way to handle API errors gracefully in my app?,api,api,0.9165352399203766,upgrade,0.026512393826748682,0.8900228460936279,True
+"I’ve been trying to generate reports, but the system just hangs up.",technical,technical,0.7883008226558684,complaint,0.10635922306784695,0.6819415995880215,True
+I noticed my webhook isn't sending any data. Could it be a timeout issue?,api,api,0.7236254290597174,technical,0.132536954892646,0.5910884741670714,True
+I just noticed a charge for a service I didn't sign up for. Can you reverse that?,billing,billing,0.9191871134279495,complaint,0.025783585650016167,0.8934035277779333,True
+I’d like to switch to a higher plan. Can you assist me with that?,upgrade,upgrade,0.9175258816500688,billing,0.034014781392212055,0.8835111002578567,True
+Could you clarify the charges on my recent statement? There's something that doesn't make sense.,billing,billing,0.9017662877281565,api,0.03572999258972025,0.8660362951384363,True
+The video playback is super choppy. It makes it impossible to watch anything!,technical,technical,0.897142795227101,complaint,0.03421863330848499,0.8629241619186161,True
+The total on my bill is not adding up. Can you assist me in reviewing it?,billing,billing,0.7380909651482234,technical,0.09953615522229674,0.6385548099259266,True
+I'd like to dispute a charge that I believe is incorrect. How do I proceed?,billing,billing,0.8318206776065227,upgrade,0.04116470759946938,0.7906559700070533,True
+My screen keeps freezing when I try to update my profile.,technical,technical,0.9584704046114384,billing,0.015170859671915194,0.9432995449395232,True
+I wish to discontinue my subscription today.,cancellation,cancellation,0.8543182318911435,technical,0.041073303774483524,0.81324492811666,True
+"I need to cancel my service, it's just not what I expected.",cancellation,cancellation,0.9423924093172085,complaint,0.02514620427155305,0.9172462050456555,True
+Are there any features exclusive to the Enterprise plan that I should know about?,upgrade,upgrade,0.8863382813557991,api,0.04917702501626288,0.8371612563395362,True
+Why am I receiving ‘not found’ errors when trying to hit specific endpoints?,api,api,0.7984881008991466,technical,0.08825106783493132,0.7102370330642153,True
+I’ve tried reaching out several times with no success; I feel like I’m being ignored.,complaint,complaint,0.9230514452638902,technical,0.026306460319329147,0.896744984944561,True
+"I received a notification about an upcoming charge, but I haven’t made any changes to my service. Is that normal?",billing,billing,0.7508860957232234,complaint,0.07336629364748748,0.6775198020757359,True
+Why is the export feature not working? I need those files urgently!,technical,technical,0.8385244266303726,api,0.0671725233217276,0.771351903308645,True
+"I'm really frustrated with this, so I just want to cancel everything.",cancellation,cancellation,0.8379799027445474,complaint,0.10786196337492628,0.7301179393696211,True
+"After the last update, features that used to work are now broken.",technical,technical,0.806292293831028,upgrade,0.06935458401795375,0.7369377098130743,True
+It’s hard to believe how bad your customer support is.,complaint,complaint,0.9766964248115066,api,0.006967098553681996,0.9697293262578246,True
+I’d like to opt out of the subscription. Can you help?,cancellation,cancellation,0.5915814628710576,upgrade,0.1412021160513038,0.4503793468197538,True
+Please remove me from your mailing list and cancel my account too.,cancellation,cancellation,0.9120600701500359,complaint,0.03134503987095737,0.8807150302790785,True
+I accidentally paid for three months instead of one. How can I fix this?,billing,billing,0.6280990522261011,complaint,0.12436421635653609,0.503734835869565,True
+Your support team hasn't been helpful at all. I feel like my concerns are falling on deaf ears.,complaint,complaint,0.9622974257934156,technical,0.012418151558797276,0.9498792742346183,True
+I’m really disappointed; the app keeps crashing while I’m in the middle of projects.,technical,technical,0.9554949789824224,complaint,0.015979103205561992,0.9395158757768605,True
+The chat feature is glitchy — I’m missing messages and can’t send new ones.,technical,technical,0.9326541826310693,api,0.02223689067303744,0.9104172919580318,True
+I see a recurring charge for a service I thought was a one-time payment. Can someone explain?,billing,billing,0.947279660760784,complaint,0.03197583926845011,0.9153038214923338,True
+Can someone please explain why I'm not getting any support?,complaint,complaint,0.47954270525387876,api,0.18815096895375613,0.2913917363001226,True
+"Every time I try to print, the option is greyed out. What’s wrong?",technical,technical,0.8887148162723947,complaint,0.03189452793653111,0.8568202883358635,True
+I don't appreciate the lack of communication regarding my issue; it’s very unprofessional.,complaint,complaint,0.7813248805122517,technical,0.08663130930207485,0.6946935712101768,True
+I'm thinking about upgrading but would like to know about the trial period for the new features.,upgrade,upgrade,0.8986783029292209,billing,0.0535899594995914,0.8450883434296295,True
+Is there a trial period for the higher-tier plans? I want to see if they fit my needs.,upgrade,upgrade,0.8392565430422102,billing,0.07294875766958356,0.7663077853726267,True
+I keep receiving an invalid token error. Can I refresh my API token somehow?,api,api,0.934319053989407,technical,0.034896215966190816,0.8994228380232161,True
+I'm trying to understand my bill better—can someone walk me through it?,billing,billing,0.6401667547746462,api,0.11563002961249148,0.5245367251621548,True
+I keep receiving an internal server error message when I try to access my files.,technical,technical,0.9613824482002686,api,0.018848130188954607,0.942534318011314,True
+Do you have any special offers if I upgrade to the top tier?,upgrade,upgrade,0.9012651969325404,api,0.04909459060988625,0.8521706063226541,True
+I need to confirm when my next payment is due. Can you provide that information?,billing,billing,0.7891467076657973,api,0.08386532819897256,0.7052813794668248,True
+"I just received a charge notification, but I don't recognize it.",billing,billing,0.6986898349860339,complaint,0.1340139372410539,0.56467589774498,True
+I feel like my concerns have been completely overlooked.,complaint,complaint,0.9616533897748147,billing,0.011357052828879164,0.9502963369459356,True
+"I forgot to cancel last month, and I don’t want that to happen again!",cancellation,cancellation,0.44945657164712693,billing,0.3811206561875022,0.06833591545962475,True
+Could you provide more details on the OAuth flow? I'm not sure I'm implementing it correctly.,api,api,0.6416313522660544,billing,0.11324699145387356,0.5283843608121809,True
+Why am I hitting a 429 error with my requests? Is it related to rate limiting?,api,api,0.840609682864855,complaint,0.04680390225964688,0.7938057806052081,True
+"Every time I contact you, nothing gets resolved.",complaint,complaint,0.4134024882817004,technical,0.3707737846137136,0.04262870366798682,True
+I'm ready to upgrade but need to know if I can revert back if it doesn't work out.,upgrade,upgrade,0.8182274443134115,technical,0.05034742856845504,0.7678800157449565,True
+"I tried reinstalling the app, but it still crashes when I attempt to open it.",technical,technical,0.93701231697464,api,0.01992441438565704,0.917087902588983,True
+"It's time for me to cancel my membership, I've decided to move on.",cancellation,cancellation,0.9203957775389278,billing,0.02041058920993737,0.8999851883289904,True
+Can I change my plan from a monthly subscription to a yearly one over the phone?,upgrade,upgrade,0.889039019318536,technical,0.03181573860605354,0.8572232807124824,True
+I need help with an unexpected charge for an upgrade I didn’t make.,billing,billing,0.654880606771124,upgrade,0.17708137919840175,0.4777992275727223,True
+I’m thinking about moving to the annual subscription. Can you walk me through it?,upgrade,upgrade,0.8308827067089505,billing,0.04513132837105263,0.7857513783378979,True
+"Your support has been unhelpful and dismissive, which is disappointing.",complaint,complaint,0.9754298184622012,technical,0.009338519477883549,0.9660912989843177,True
+The app crashes every time I try to switch to dark mode.,technical,technical,0.9616666441795976,upgrade,0.021462584935779835,0.9402040592438178,True
+Can you explain how to properly format a request to your API?,api,api,0.96187408870536,upgrade,0.011504191447551024,0.950369897257809,True
+How do I refresh my access token when using OAuth2 with your API?,api,api,0.9816241512030148,complaint,0.005343305142958138,0.9762808460600567,True
+I can't believe how long it's taking to get a simple answer from your team.,complaint,complaint,0.9666339810591066,api,0.010106058453404839,0.9565279226057017,True
+"If I upgrade, will I get a prorated charge for the difference?",upgrade,upgrade,0.7787651770292084,billing,0.0935147349931678,0.6852504420360407,True
+"I've been a loyal customer, and this service is not what I signed up for.",complaint,complaint,0.9303222950658695,billing,0.031556346490727256,0.8987659485751422,True
+Why is my API request returning a 403? I thought my permissions were set correctly.,api,api,0.9263973746990621,billing,0.025186950801487508,0.9012104238975747,True
+I want to stop all my payments. Please cancel my membership.,cancellation,cancellation,0.9932762678502802,billing,0.0022102596146613453,0.9910660082356189,True
+"I'm not seeing any data returned from the API, even though my request seems correct. Can you help?",api,api,0.9367096172952798,technical,0.023385094853289018,0.9133245224419908,True
+Please go ahead and cancel my subscription.,cancellation,cancellation,0.9894323157857662,billing,0.00432294562726513,0.9851093701585011,True
+I expected much better service than this. I'm really disappointed.,complaint,complaint,0.9405387959251232,billing,0.023623452963162272,0.916915342961961,True
+I can't believe how long it took to get a reply; unacceptable!,complaint,complaint,0.879784547871617,api,0.02884544185263481,0.8509391060189821,True
+What’s the best way to test endpoints without affecting my production data?,api,api,0.8220663112427165,upgrade,0.0886155962697612,0.7334507149729552,True
+What are the first steps if I want to go for the annual subscription?,upgrade,upgrade,0.8526205498838051,api,0.05665354090031591,0.7959670089834892,True
+"I was charged a late fee, but I paid on time. How can I resolve this issue?",billing,billing,0.9129006798445419,complaint,0.03889806870777714,0.8740026111367648,True
+Can I get a detailed breakdown of my recent charges? I need to review them.,billing,billing,0.9306615630648176,cancellation,0.017416702065113258,0.9132448609997044,True
+I've never faced such poor customer service; I really need someone to make this right.,complaint,complaint,0.9418070708425217,billing,0.017116104539041624,0.92469096630348,True
+Could you explain why there’s an extra fee on my bill this time?,billing,billing,0.9684774194196635,api,0.009520283129345218,0.9589571362903183,True
+I’m really frustrated and want to cancel my account now.,cancellation,cancellation,0.9904512479714508,billing,0.0034239137180267906,0.987027334253424,True
+Is there a specific reason my bill went up this time? I’d like to understand it better.,billing,billing,0.763312372840783,complaint,0.10480253277322063,0.6585098400675624,True
+I need to cancel my subscription right now; can't deal with it anymore.,cancellation,cancellation,0.9648654045639973,upgrade,0.010091901817221607,0.9547735027467756,True
+Can you tell me when my next payment is due? I want to make sure I'm prepared.,billing,billing,0.8544434068601777,cancellation,0.05039380942207364,0.8040495974381041,True
+The sync feature hasn’t been updating in hours. What can be done?,technical,technical,0.7111423122441332,api,0.08058873707675776,0.6305535751673754,True
+I need to cancel my service right away; it’s not what I expected.,cancellation,cancellation,0.946302819357342,billing,0.016237817734652066,0.9300650016226899,True
+I'm currently on the Basic plan and I'd like to know how much it costs to upgrade to Premium.,upgrade,upgrade,0.9106459861952876,billing,0.02840147380300073,0.8822445123922869,True
+My credit card was charged incorrectly. I need to address this issue ASAP!,billing,billing,0.8578436971247468,complaint,0.052019374444800356,0.8058243226799465,True
+I’m getting a CORS error when trying to make requests to the API. What should I do?,api,api,0.9837892231764218,technical,0.007811852526034445,0.9759773706503874,True
+I feel like I’ve been shouting into the void with no response whatsoever.,complaint,complaint,0.8900044398886723,technical,0.034871713310937205,0.8551327265777351,True
+"Every time I click on the settings tab, it crashes. What's going on?",technical,technical,0.8838318464511012,billing,0.04021490969621977,0.8436169367548815,True
+"Every time I try to save my changes, the app crashes.",technical,technical,0.9926233498914655,complaint,0.0017130891215250662,0.9909102607699405,True
+This is seriously disappointing; I expected much better from your company.,complaint,complaint,0.9835088268496992,api,0.004741042921869236,0.9787677839278299,True
+"I expected better, and I’m not getting any answers or help at all.",complaint,complaint,0.5955954183726062,technical,0.17545278297299452,0.4201426353996117,True
+I need to know the due date for my next bill. I don’t want to incur late fees.,billing,billing,0.8547250916834327,cancellation,0.05048123986962663,0.8042438518138061,True
+Why is my webhook not being triggered? Everything seems fine on my end.,api,api,0.6461485903057604,billing,0.15171031988999076,0.4944382704157697,True
+I want to upgrade but I’m not sure if I need the full premium features. Can you help?,upgrade,upgrade,0.9707484956307723,billing,0.008952386482217408,0.9617961091485548,True
+I’m really interested in the additional tools available in the Pro version. How do I get access to that?,upgrade,upgrade,0.7768471638317932,api,0.0805564339879209,0.6962907298438723,True
+The settings menu doesn't seem to respond when I click on it.,technical,technical,0.9015896182786625,api,0.0345686395745862,0.8670209787040762,True
+I can't edit my profile because the save button is grayed out.,technical,technical,0.8461419263283088,api,0.04232430053454316,0.8038176257937656,True
+Can you provide more details on how to set up OAuth 2.0 for your API?,api,api,0.9851903897768911,billing,0.006129092584247663,0.9790612971926435,True
+Is it possible to downgrade my subscription without losing any data?,upgrade,upgrade,0.9346892644386798,cancellation,0.016969428386926104,0.9177198360517538,True
+I have some unexpected charges on my credit card; can you help investigate?,billing,billing,0.9031246317629239,api,0.024481030345677817,0.8786436014172461,True
+I've had to escalate my issues too many times; this is ridiculous.,complaint,complaint,0.8554606884771492,technical,0.04795621397252221,0.8075044745046269,True
+Could you let me know if there’s a way to increase the rate limit for my application?,api,api,0.9180283745204065,billing,0.04792506642315619,0.8701033080972503,True
+The notifications haven't been working for days; any idea what's going on?,technical,technical,0.5835691020780119,api,0.17289905529080815,0.41067004678720376,True
+Please make sure I won’t be billed next month; I’d like to cancel.,cancellation,cancellation,0.9811859110291784,billing,0.009154672601760321,0.9720312384274181,True
+Are there any restrictions on the types of data I can send through the API?,api,api,0.9267247907049073,technical,0.03313809613851551,0.8935866945663918,True
+I want to know how to update my billing information. It's not working online.,billing,billing,0.6593763283786067,api,0.09174776610686196,0.5676285622717447,True
+Is there a way to test the API without using real data?,api,api,0.9823263366265503,upgrade,0.006993672234985758,0.9753326643915646,True
+I just want to voice how unsatisfied I am; this has been a really poor experience for me.,complaint,complaint,0.9155677477781577,cancellation,0.03572521987085761,0.8798425279073001,True
+The level of service I've received has been beyond disappointing.,complaint,complaint,0.9684838782606563,technical,0.00907153705228718,0.9594123412083692,True
+There's a bug where the images won't load properly on my profile page.,technical,technical,0.9503488525888989,billing,0.015530178677822335,0.9348186739110765,True
+Can someone help me figure out how to switch from monthly billing to annual?,upgrade,upgrade,0.723628225256085,billing,0.1141630036010276,0.6094652216550573,True
+What should I do if I suspect that my account has been compromised?,api,billing,0.2547245706474388,api,0.20309904339999696,0.05162552724744185,False
+I'm really unhappy and want to cancel my subscription.,cancellation,cancellation,0.990409681726779,billing,0.003711080422330626,0.9866986013044484,True
+I have questions about premium features before I decide to upgrade. Can someone assist?,upgrade,upgrade,0.9299786874173945,billing,0.022316830153129023,0.9076618572642655,True
+Can you please help me close my account? I'm done with it.,cancellation,cancellation,0.9219038202254143,billing,0.030095666529049814,0.8918081536963645,True
+I can't generate my monthly report; the 'generate' button does nothing.,technical,technical,0.6187944352689762,billing,0.1121632011305033,0.5066312341384729,True
+I wish to terminate my membership due to personal reasons.,cancellation,cancellation,0.7491118071532021,technical,0.06296803001111222,0.68614377714209,True
+"It’s unbelievable how your support team has handled my request, or rather, not handled it at all.",complaint,complaint,0.8820855562126595,technical,0.035479155998911195,0.8466064002137483,True
+I can't figure out if I'm using the right base URL for your endpoints.,api,api,0.7922803517087665,upgrade,0.05276795514109253,0.739512396567674,True
+I want to formally request the cancellation of my membership.,cancellation,cancellation,0.9356531557530573,api,0.015159987751579826,0.9204931680014775,True
+I just want to stop my subscription. What do I need to do?,cancellation,cancellation,0.8923767121928308,upgrade,0.08322297612448411,0.8091537360683466,True
+Is there a way to trial the Enterprise features before upgrading?,upgrade,upgrade,0.9125754544700989,api,0.038851744851017465,0.8737237096190814,True
+When will I see the refund for the duplicate payment I made?,billing,billing,0.7054424032033787,technical,0.10873497233406013,0.5967074308693185,True
+"I need to end my account. It's been a tough decision, but I have to do it.",cancellation,cancellation,0.740909020677224,complaint,0.07637192619198276,0.6645370944852412,True
+Looking to downgrade my subscription. What’s the process?,upgrade,upgrade,0.9595052974473743,cancellation,0.019274855004523278,0.940230442442851,True
+Can you help me end my account? I'm not interested anymore.,cancellation,cancellation,0.9060453423424223,billing,0.03496110323279462,0.8710842391096276,True
+"Every time I reach out, it feels like I’m talking to a wall.",complaint,complaint,0.9284655349619702,technical,0.03532610200637678,0.8931394329555934,True
+I'm curious about the authentication flow for your API; can you break it down for me?,api,api,0.890923438165184,billing,0.05124911971135572,0.8396743184538283,True
+The app keeps freezing whenever I try to upload a file.,technical,technical,0.9941416891857686,api,0.0016505962415705902,0.992491092944198,True
+I'd like to stop receiving payments for my subscription. Let's cancel it.,cancellation,cancellation,0.9280154203790343,billing,0.04654281156428014,0.8814726088147542,True
+"I noticed a double charge on my account this month, can you help me resolve this?",billing,billing,0.9803074358566739,cancellation,0.009936484814057515,0.9703709510426164,True
+"I tried to refresh the page, but it keeps showing a loading icon forever. What's the deal?",technical,technical,0.926966557540718,api,0.028866108980444616,0.8981004485602734,True
+"I just updated the app, and now it's running super slow. How can I fix this?",technical,technical,0.805725606851205,api,0.058196918415927446,0.7475286884352775,True
+"I'm confused about the extra fees on my invoice, can you clarify them for me?",billing,billing,0.9436345360739926,api,0.020742230243291592,0.922892305830701,True
+Is there a way to get a detailed pricing structure sent to my email? I need to budget better.,billing,billing,0.5339027589758197,api,0.1793482733262843,0.3545544856495354,True
+"Can I change my plan mid-billing cycle, or do I need to wait until it renews?",upgrade,upgrade,0.8253936875956197,billing,0.07050110262882198,0.7548925849667978,True
+I just want to be heard; this experience has been a nightmare.,complaint,complaint,0.9502440265786061,cancellation,0.020254595875332678,0.9299894307032734,True
+"I’d like to end my service today, can you do that for me?",cancellation,cancellation,0.8743691890014021,billing,0.07628304847555074,0.7980861405258514,True
+The syncing feature is not working; my files aren’t up to date.,technical,technical,0.8877300675601139,api,0.03456323751193177,0.8531668300481821,True
+This isn’t working out for me; I’d like to terminate my subscription.,cancellation,cancellation,0.9389611565782179,billing,0.02329394607543243,0.9156672105027854,True
+I'm not satisfied with my current subscription. How can I upgrade to the higher level?,upgrade,upgrade,0.9768085260675822,cancellation,0.006796678794170202,0.9700118472734119,True
+I can’t seem to access the analytics dashboard; it keeps freezing.,technical,technical,0.9672658644235594,api,0.014136316533672698,0.9531295478898868,True
+"I keep hitting the rate limit on the free tier, is there a way to increase it temporarily?",api,api,0.9222624696267445,technical,0.032482106121122074,0.8897803635056224,True
+Could you help me with the process of upgrading to the Premium plan?,upgrade,upgrade,0.9803661033825305,api,0.006030488059987863,0.9743356153225426,True
+Can you help me end my subscription? I’m not satisfied with it.,cancellation,cancellation,0.8405744086938661,billing,0.0680716889685314,0.7725027197253347,True
+What are the steps to downgrade my plan without losing any of my data?,upgrade,upgrade,0.9683591897048947,api,0.011300297160948405,0.9570588925439463,True
+My bill has a few charges for things I didn't subscribe to. Can you look into that?,billing,billing,0.9049015063317768,technical,0.028832544156443454,0.8760689621753334,True
+Is there a way to get notifications about changes to the API? I don't want to miss updates.,api,api,0.7693141961696898,upgrade,0.0995319231992608,0.669782272970429,True
+Can I get a list of all available API endpoints? I’m unsure what I can access.,api,api,0.8904841683229163,upgrade,0.02884488765852753,0.8616392806643888,True
+"I tried resetting my password, but I keep getting an error message.",technical,technical,0.9235441958147792,api,0.032702694691371534,0.8908415011234077,True
+I'm really confused about the different charges on my invoice and need clarification.,billing,billing,0.9197054917780795,api,0.02891488846042578,0.8907906033176537,True
+I keep getting a message saying 'unexpected error' when I try to save my settings.,technical,technical,0.9705231622989295,api,0.013893573706876314,0.9566295885920533,True
+"I was promised a discount, but it doesn’t appear on my invoice. Can you fix that?",billing,billing,0.9421385038947397,technical,0.024996232004757306,0.9171422718899824,True
+Your support team needs serious improvement; this is not okay.,complaint,complaint,0.9437411913218382,technical,0.018245589642294585,0.9254956016795436,True
+I didn’t authorize an additional fee on my account. Can you revert that charge?,billing,billing,0.9731793854179791,cancellation,0.008269243071736439,0.9649101423462426,True
+I can’t download reports; the export button just doesn't respond.,technical,technical,0.8722805938467268,complaint,0.03568435981164647,0.8365962340350803,True
+"Every time I try to get help, it feels like I'm wasting my time.",complaint,complaint,0.7213857301576369,technical,0.2060668238984443,0.5153189062591925,True
+"Every time I attempt to save my changes, it exits out without saving anything.",technical,technical,0.8204500733424428,complaint,0.06394831132407676,0.756501762018366,True
+The API response is taking longer than expected. Is this normal?,api,api,0.7022699512478835,complaint,0.17106928200953062,0.5312006692383529,True
+Is there a possibility to get a higher rate limit for testing purposes?,api,api,0.7888416529733046,complaint,0.07653126318487471,0.7123103897884299,True
+The video playback feature is not working on my device—what's wrong?,technical,technical,0.9262466356939966,api,0.027947841822121525,0.8982987938718751,True
+"I’m considering the Family plan, can you tell me what benefits it offers?",upgrade,upgrade,0.8256671832763004,billing,0.059923811275362164,0.7657433720009382,True
+"I wish I could say something positive about my experience, but I can’t.",complaint,complaint,0.42724654142067797,billing,0.19864586233638387,0.2286006790842941,True
+I'm not sure if my request format is correct. Can I get a sample?,api,api,0.4377237260536432,billing,0.20213772447574332,0.23558600157789986,True
+What’s up with the charges on my account? They seem way off from what I expected.,billing,billing,0.6757653921822446,technical,0.10812542181039816,0.5676399703718464,True
+Can you check why the app is running so slowly today? It’s frustrating!,technical,technical,0.9445151673189669,billing,0.01647986965032846,0.9280352976686385,True
+I’m not satisfied with my current plan. What’s the process for upgrading?,upgrade,upgrade,0.9668291564151265,api,0.011286011344872962,0.9555431450702535,True
+"Your support team has been unhelpful and dismissive, which is really disappointing.",complaint,complaint,0.9852849746384891,technical,0.006495979197661851,0.9787889954408272,True
+I’m unhappy with the increase in my monthly subscription; can you explain?,billing,billing,0.5864667831285875,upgrade,0.1401009651127106,0.4463658180158768,True
+"My account is too costly for my budget, so I need to cancel.",cancellation,cancellation,0.9238185969329361,billing,0.03972141555331141,0.8840971813796247,True
+"I haven't received my invoice yet, and my payment is due soon. What's up?",billing,billing,0.9291812987475666,complaint,0.0257604636002953,0.9034208351472713,True
+I need a refund for a duplicate payment. How do I go about that?,billing,billing,0.8145730336895852,upgrade,0.0642742148698953,0.75029881881969,True
+I'm experiencing a 404 error on several pages. This needs to be fixed ASAP!,technical,technical,0.5263129942038937,complaint,0.15242947905595766,0.373883515147936,True
+Can you help me with a discrepancy in the billing amount? It doesn’t match what I was quoted.,billing,billing,0.8256693928557897,upgrade,0.04853566319903314,0.7771337296567565,True
+I noticed a discrepancy in my invoice. How do I report this?,billing,billing,0.7353751713360366,api,0.08238419282863087,0.6529909785074057,True
+"This has been a massive inconvenience for me, and it's unacceptable.",complaint,complaint,0.9053308615094264,billing,0.035094135449262404,0.870236726060164,True
+I would like to cancel my service before the trial ends.,cancellation,cancellation,0.9210005681635035,upgrade,0.02168156188207411,0.8993190062814294,True
+I just want to make sure my subscription is cancelled before the next billing cycle.,cancellation,cancellation,0.8459925027532346,upgrade,0.07129315998006394,0.7746993427731707,True
+"I tried to cancel my subscription, but I see a charge on my account. What do I do now?",billing,billing,0.508742963043326,cancellation,0.44399434175476926,0.06474862128855674,True
+I’ve had better support from automated messages than from your actual team.,complaint,complaint,0.964579334565801,api,0.011313943890426913,0.9532653906753741,True
+I expected better from your company; this is really unacceptable.,complaint,complaint,0.9853525216649454,technical,0.004511340331476125,0.9808411813334692,True
+Is there a trial period for the upgraded plans?,upgrade,upgrade,0.8085673354290069,api,0.06109834398078641,0.7474689914482205,True
+I feel like my loyalty to your brand has been completely wasted.,complaint,complaint,0.9362191511865928,technical,0.016005464638160983,0.9202136865484318,True
+Why does the app keep crashing when I switch tabs? It's driving me crazy!,technical,technical,0.9106039875745204,api,0.027234938418696755,0.8833690491558237,True
+There's a discrepancy in my billing history. How can I get that sorted out?,billing,billing,0.8455609016247081,upgrade,0.04933105474323155,0.7962298468814766,True
+I expected much better service from you; I'm very disappointed.,complaint,complaint,0.8931584441356382,billing,0.026539377786049572,0.8666190663495886,True
+It seems like nobody cares about resolving my issue. This is really disappointing.,complaint,complaint,0.9301632402486388,technical,0.023677183511753585,0.9064860567368852,True
+It’s been 20 minutes and the upload is still stuck at 10%. What’s going on?,technical,technical,0.6657952982532446,complaint,0.12935643701440627,0.5364388612388383,True
+I heard about a new plan tier. Can you tell me how to upgrade?,upgrade,upgrade,0.9620640600817235,api,0.014739171428199927,0.9473248886535236,True
+The integration with my other tools isn't working like it used to.,technical,technical,0.6138139744663437,api,0.1958745763079114,0.4179393981584323,True
+Are there trials available for the higher subscription plans?,upgrade,upgrade,0.721186697480983,api,0.13839511151963835,0.5827915859613446,True
+Could you provide more information on how to set up OAuth authentication?,api,api,0.9244799843291653,billing,0.02522209458310815,0.8992578897460571,True
+I have a question about my yearly billing cycle. Can you tell me how it works?,billing,billing,0.7488895255801842,upgrade,0.12732856124855127,0.6215609643316329,True
+Can you confirm that my subscription has been successfully cancelled?,cancellation,cancellation,0.7135014492155679,billing,0.1591615923952441,0.5543398568203238,True
+What are the premium features I can access if I upgrade?,upgrade,upgrade,0.9921506320342528,api,0.0038325644115763838,0.9883180676226764,True
+"I just updated the app, and now I can’t access my profile. What’s going on?",technical,technical,0.9219004590826927,billing,0.025237213427557536,0.8966632456551351,True
+I have a question about the pricing on my last invoice—it doesn’t match what I was quoted.,billing,billing,0.975184951673952,technical,0.009276366284005558,0.9659085853899465,True
+This isn't the first time the app has crashed while I was in the middle of something important.,technical,technical,0.8670565597070022,complaint,0.054816848117093905,0.8122397115899084,True
+I'm confused about the difference between private and public API keys. Can you explain?,api,api,0.8928631736725607,billing,0.046445307586903135,0.8464178660856576,True
+"Do I have to cancel my current subscription to upgrade, or is there a seamless way to do it?",upgrade,upgrade,0.8733924749391265,cancellation,0.07505499187891719,0.7983374830602094,True
+I’ve had enough. Please close my account as soon as possible.,cancellation,cancellation,0.835267043881977,complaint,0.07613570881023964,0.7591313350717374,True
+I'm really frustrated because your system keeps timing out during my work.,technical,technical,0.6904178886030959,complaint,0.11410271377545679,0.5763151748276392,True
+"Seriously, I just want my issue resolved, but your team is nowhere to be found.",complaint,complaint,0.8741935335099742,api,0.03679719675352396,0.8373963367564502,True
+I was billed incorrectly. Can you fix this for me?,billing,billing,0.9094815748860489,technical,0.024830673292944482,0.8846509015931043,True
+The access token I generated keeps getting rejected. What am I doing wrong?,api,api,0.6806166448113823,technical,0.1881363249294211,0.49248031988196117,True
+I can't seem to connect to the server; is it down for maintenance or something?,technical,technical,0.6013340002388989,api,0.2039726971071919,0.39736130313170703,True
+The app doesn’t seem to respond when I tap the buttons. Am I the only one?,technical,technical,0.9151727268379035,api,0.04425016060026485,0.8709225662376386,True
+I have some concerns about my billing; it seems like I’m being charged for things I didn’t use. Can you investigate?,billing,billing,0.9283944963908412,complaint,0.025024767617709588,0.9033697287731316,True
+I forgot how to authenticate my requests—can you send me the steps again?,api,api,0.6689003281434921,billing,0.11605946417423896,0.5528408639692531,True
+I'm confused about my invoice—it lists services I never ordered. Can you help me clear this up?,billing,billing,0.8607440396242424,complaint,0.044345072056612006,0.8163989675676304,True
+It's been impossible to connect to the support chat; is there a glitch?,technical,technical,0.6842618666685771,complaint,0.1371406703038463,0.5471211963647309,True
+"If I upgrade, will my billing cycle change automatically?",upgrade,upgrade,0.8370616501359692,billing,0.10989260410756498,0.7271690460284043,True
+"I feel ignored and undervalued as a customer, and that's not right.",complaint,complaint,0.8457920839439811,technical,0.04284346727102043,0.8029486166729607,True
+"It's time for me to move on; I need to cancel my account, please.",cancellation,cancellation,0.9729011222107367,billing,0.011052759974230981,0.9618483622365057,True
+"I've been a loyal customer, but right now I'm seriously reconsidering that.",complaint,complaint,0.8482940341320087,billing,0.04875736668640979,0.7995366674455988,True
+I'm trying to integrate your API with another service but facing issues. Any advice?,api,api,0.8974012232790308,complaint,0.05447202775114121,0.8429291955278896,True
+"Can I use multiple API keys for different projects, and if so, how do I manage them?",api,api,0.8923615997399261,upgrade,0.03348290096719249,0.8588786987727336,True
+"The update just installed, and now the app won’t start at all. Help!",technical,technical,0.9672893731672412,complaint,0.013595929348215663,0.9536934438190255,True
+It seems like the chat feature is completely unresponsive right now.,technical,technical,0.9246311685578132,complaint,0.035553108432216256,0.889078060125597,True
+What additional features can I access if I upgrade to the Elite subscription?,upgrade,upgrade,0.9882585272564199,technical,0.00443361676940507,0.9838249104870148,True
+"I just signed up, but I was charged immediately. Is that normal?",billing,billing,0.6601611145781529,complaint,0.15856045557706303,0.5016006590010899,True
+Can I get a list of all available endpoints in a downloadable format?,api,api,0.7233373239593966,complaint,0.07487978502062144,0.6484575389387752,True
+Is there a way to get a breakdown of my recent charges?,billing,billing,0.8642091039359676,api,0.049567660491006825,0.8146414434449608,True
+"Can I upgrade my subscription through the app, or do I need to do it online?",upgrade,upgrade,0.8811872880399033,cancellation,0.03998276798583019,0.8412045200540731,True
+I’m not sure if I want to upgrade or stick with my free plan. What do you recommend?,upgrade,upgrade,0.9354569641739295,api,0.02841039527779261,0.9070465688961369,True
+"Can I get a copy of my invoice for this month, please?",billing,billing,0.9378655631041559,cancellation,0.026080959461319067,0.9117846036428369,True
+The feature for exporting data seems to be broken—I've tried multiple times!,technical,technical,0.7553126339820873,complaint,0.09496043468718217,0.6603521992949051,True
+Is there a way to handle multiple webhooks for different events through your API?,api,api,0.9868608967570929,billing,0.003930953002821375,0.9829299437542715,True
+I’d like to know if there’s a fee for upgrading my plan right now.,upgrade,upgrade,0.8981779892620351,billing,0.06331381892955701,0.8348641703324781,True
+I feel like I need more features. How can I upgrade my plan?,upgrade,upgrade,0.9880718686590231,complaint,0.005460750582031312,0.9826111180769918,True
+I'm curious if upgrading my plan will also change my billing cycle.,upgrade,upgrade,0.942207889075311,billing,0.04079098144097425,0.9014169076343367,True
+It feels like I'm talking to a wall with your support team.,complaint,complaint,0.9864817790880579,api,0.004259558356752376,0.9822222207313055,True
+"I'd like to terminate my account, thank you.",cancellation,cancellation,0.9430629941156078,billing,0.02132040380418538,0.9217425903114224,True
+What happens if I don't receive my invoice on time? Will I be charged?,billing,billing,0.7323432896472291,upgrade,0.10040276995233864,0.6319405196948904,True
+"Hey, how do I set up webhooks for my application? It's a bit confusing.",api,api,0.8524634800654454,billing,0.07694606452802258,0.7755174155374228,True
+I’ve changed my mind and I need to cancel my account.,cancellation,cancellation,0.9722783992980905,billing,0.011995867335629741,0.9602825319624607,True
+"Do I have to specify all parameters in my API requests, or are some optional?",api,api,0.9122876514991904,upgrade,0.02885249745385519,0.8834351540453352,True
+Can I downgrade my subscription without any penalties?,upgrade,upgrade,0.8135598021335408,cancellation,0.07648395140791317,0.7370758507256276,True
+This experience has been nothing short of frustrating for me.,complaint,complaint,0.9214690284493111,technical,0.02239150737766156,0.8990775210716495,True
+Are there any restrictions on what data I can pull from your API?,api,api,0.9441237639537253,upgrade,0.022651231809925197,0.9214725321438001,True
+Why does your software keep crashing every time I try to save my work?,technical,technical,0.9411836625563166,complaint,0.018566824092379596,0.9226168384639369,True
+What are the steps to move from the Starter to the Pro plan?,upgrade,upgrade,0.946978768897047,api,0.027611429262608345,0.9193673396344386,True
+I can't seem to save my changes; it just says 'error' every time.,technical,technical,0.9304047726714034,api,0.020731338164005405,0.909673434507398,True
+Something's wrong with the notifications; I'm not receiving any updates.,technical,technical,0.7401889654550982,api,0.14446807303055462,0.5957208924245435,True
+Can you give me a quick comparison of the plans? I want to upgrade but need to choose wisely.,upgrade,upgrade,0.9233545753289053,cancellation,0.020612381589471634,0.9027421937394337,True
+I've been double charged for my subscription this month. Can you rectify this?,billing,billing,0.9534408438792011,cancellation,0.02059467765943039,0.9328461662197708,True
+"The API documentation mentions rate limits, but I can't find the exact numbers. Can you provide them?",api,api,0.975720342553012,technical,0.008002530321722557,0.9677178122312894,True
+The app keeps kicking me out unexpectedly; I can't get anything done!,technical,technical,0.9500752210754713,api,0.012850289171327061,0.9372249319041442,True
+My screen goes black when I try to open the settings. What's happening?,technical,technical,0.9059932147112021,api,0.027844546613497025,0.8781486680977051,True
+The videos won't play on my device anymore. Did something change?,technical,technical,0.6941983031624551,billing,0.12453452763272929,0.5696637755297258,True
+I’m having trouble with the payment processing feature; it’s stuck on 'loading'.,technical,technical,0.9227872405672755,billing,0.028860872932103716,0.8939263676351717,True
+Trying to reach you has been a nightmare; it shouldn’t be this hard.,complaint,complaint,0.8618929191521185,technical,0.04126786919342146,0.8206250499586971,True
+What happens if I exceed the rate limit? Will I get blocked temporarily?,api,api,0.7678589329038653,upgrade,0.09594037992340713,0.6719185529804582,True
+I’m really interested in the additional tools from the upgraded plans. Can you help me?,upgrade,upgrade,0.8204759908870787,technical,0.05671441182665408,0.7637615790604246,True
+"I want to make sure I won't be billed again, please cancel my account.",cancellation,cancellation,0.9901305812252735,billing,0.005527304517196815,0.9846032767080767,True
+I’ve noticed that the search function isn’t returning any results lately.,technical,technical,0.9507280429545888,api,0.014682284998829172,0.9360457579557596,True
+I’m frustrated because my integration isn’t working. Can you offer any support?,api,api,0.6310470701112102,technical,0.12173502021795021,0.50931204989326,True
+I'm receiving rate limit warnings even though I'm still under the limit. What's going on?,api,api,0.8352367395675898,technical,0.08290638030734278,0.752330359260247,True
+This is just unacceptable; I deserve better as a loyal customer.,complaint,complaint,0.9407663827448378,technical,0.023086403429506734,0.9176799793153311,True
+Can I get a statement for my previous months’ payments?,billing,billing,0.834062174379159,api,0.044635636807891024,0.7894265375712679,True
+"I tried to clear my cache, but the app still won’t start properly!",technical,technical,0.903274149521246,api,0.03115007851298441,0.8721240710082615,True
+I’ve encountered numerous delays and it's really taking a toll on my patience.,complaint,complaint,0.6323282712480675,technical,0.1880688718995522,0.4442593993485152,True
+"I attempted to make a payment, but it was declined. What should I do next?",billing,billing,0.6577570608595619,api,0.13831894468428588,0.519438116175276,True
+I can't believe how long I've had to wait for assistance. This is unacceptable.,complaint,complaint,0.9410786998286603,billing,0.014975629045156279,0.9261030707835041,True
+Is there a way to upgrade my account without losing my current data?,upgrade,upgrade,0.9532305323478394,api,0.018304690513720266,0.9349258418341191,True
+How do I get notified if a webhook event fails to deliver?,api,api,0.5797692367361581,upgrade,0.19759699958641214,0.38217223714974596,True
+I’m not satisfied with my current plan and want to switch. What’s the best option for me?,upgrade,upgrade,0.9401674909712194,cancellation,0.025437203908314047,0.9147302870629054,True
+"It’s been great, but I’ve decided to close my account now.",cancellation,cancellation,0.6659378301289512,complaint,0.13372994454356274,0.5322078855853885,True
+I’m seeing some weird glitches in the interface; buttons aren’t responding well.,technical,technical,0.7975900331655186,api,0.06577956561975784,0.7318104675457607,True
+Is there a way to increase the rate limit for my application temporarily?,api,api,0.9724401006315705,billing,0.012766304624464351,0.9596737960071061,True
+I just want to cancel everything related to my account.,cancellation,cancellation,0.9696639969348441,billing,0.009073830752766042,0.960590166182078,True
+"I'm having trouble accessing the API documentation, can you help?",api,api,0.9687635553849012,technical,0.012058940336029316,0.9567046150488719,True
+Just letting you know that I want to cancel my service.,cancellation,cancellation,0.924787743424194,billing,0.028943755659592306,0.8958439877646017,True
+I want to reduce my monthly bill. Can I downgrade my plan easily?,upgrade,upgrade,0.7936589595933071,billing,0.123932751869406,0.6697262077239011,True
+Can someone explain why the notifications are not showing up? It's really frustrating!,technical,technical,0.9058813579508277,complaint,0.03719701535532286,0.8686843425955049,True
+Can you help me understand the webhook signature verification process?,api,api,0.6732224451111282,billing,0.18248754310104148,0.4907349020100867,True
+"I've updated my payment info, but I wasn't charged as expected. Why?",billing,billing,0.7991523035402087,complaint,0.06590197335287044,0.7332503301873383,True
+Are there any additional perks if I upgrade to the higher tier?,upgrade,upgrade,0.9767952002350518,api,0.01005459820342397,0.9667406020316278,True
+Let's go ahead and cancel my account. I'm done here.,cancellation,cancellation,0.9166686837728748,technical,0.02228290768011025,0.8943857760927646,True
+I was charged for a service I canceled. Can you assist me with that?,billing,billing,0.9327154472863838,cancellation,0.03583767377382701,0.8968777735125568,True
+I noticed an extra fee on my invoice. Can you break it down for me?,billing,billing,0.971158236824031,technical,0.007936296084793269,0.9632219407392377,True
+Is it straightforward to downgrade? What features would I lose?,upgrade,upgrade,0.7783767908495973,complaint,0.07980167582006148,0.6985751150295358,True
+I’m not happy with my current plan; how can I upgrade to something better?,upgrade,upgrade,0.9731816929679423,complaint,0.007388777240045639,0.9657929157278967,True
+"I followed the OAuth flow, but I still can’t get a valid access token, what am I missing?",api,api,0.7801030823433343,technical,0.07881844697273768,0.7012846353705966,True
+"Hey, what’s the best way to get started with your API documentation?",api,api,0.9579839858166883,complaint,0.016687990007235406,0.9412959958094529,True
+I can't access the settings page; it just keeps loading forever!,technical,technical,0.9768444791690044,api,0.006491492507779635,0.9703529866612248,True
+"I shouldn't have to chase you down for answers, it's incredibly frustrating.",complaint,complaint,0.7673539039425672,technical,0.05939892319266837,0.7079549807498988,True
+Could you please provide an itemized list of charges for last month?,billing,billing,0.75363122834125,api,0.09110956205750646,0.6625216662837435,True
+I'm really frustrated and would like to terminate my account.,cancellation,cancellation,0.884494890013071,billing,0.038880798079979635,0.8456140919330913,True
+What’s the easiest way to switch from my current plan to a higher tier?,upgrade,upgrade,0.9933852677528495,api,0.002373211826462374,0.9910120559263872,True
+Can I get a detailed breakdown of my last month’s charges?,billing,billing,0.9740995010454934,complaint,0.006594272364819613,0.9675052286806738,True
+I’ve changed my mind and want to cancel my membership now.,cancellation,cancellation,0.9689694267656446,billing,0.008946713920986903,0.9600227128446577,True
+I just got my bill and I see something that doesn't look right. Can I get a breakdown?,billing,billing,0.81296683390989,technical,0.07411698844483006,0.7388498454650599,True
+"Is it possible to configure different environments (e.g., staging, production) for the API?",api,api,0.8976573377346092,upgrade,0.03898224777094626,0.8586750899636629,True
+I feel neglected as a customer; it shouldn't be this hard to get support.,complaint,complaint,0.9678967651034072,technical,0.008343585959891374,0.9595531791435158,True
+"Hey, I think I misunderstood how to implement the API. Can you clarify the steps?",api,api,0.955116875809032,upgrade,0.018659430193551537,0.9364574456154805,True
+"I don’t want my account anymore, please cancel it.",cancellation,cancellation,0.9881677343841769,technical,0.0038715138178412414,0.9842962205663357,True
+"Hey, the app just crashed while I was in the middle of a transaction.",technical,technical,0.8818632846137594,api,0.03109444150466598,0.8507688431090934,True
+There's a recurring payment that I can't recall authorizing. Can you check that for me?,billing,billing,0.8406223662951959,api,0.047960918071590336,0.7926614482236056,True
+This level of service is shocking; I don't think I'll be sticking around much longer.,complaint,complaint,0.8308675882129359,billing,0.05090590295234463,0.7799616852605913,True
+Can I use OAuth for server-to-server communication with your API?,api,api,0.9560110026666128,complaint,0.020217843258659638,0.9357931594079532,True
+"I thought my subscription was supposed to be $10, but I was charged $15.",billing,billing,0.8448628344387051,complaint,0.047134035245248875,0.7977287991934563,True
+I was charged for a service I didn’t use this month. How can I get that refunded?,billing,billing,0.9814553930949492,complaint,0.00639496137043664,0.9750604317245126,True
+I’m officially requesting to cancel my membership.,cancellation,cancellation,0.9787310428048692,technical,0.00597242296804583,0.9727586198368234,True
+My bill has an unexpected charge. Can you tell me what it's for?,billing,billing,0.9439379210718811,upgrade,0.016589675239906638,0.9273482458319745,True
+Please proceed with canceling my account. I’m ready to move on.,cancellation,cancellation,0.8535698186130436,upgrade,0.04360292801441257,0.809966890598631,True
+It’s really annoying that I can’t submit my feedback; the submit button doesn’t work at all.,technical,technical,0.8853041873804189,complaint,0.04256813804897114,0.8427360493314477,True
+I'm confused about the terms of service related to API usage. Can you clarify?,api,api,0.7031722302887093,billing,0.13665093283476246,0.5665212974539469,True
+"Does upgrading my plan automatically give me access to all previous features, or are there exceptions?",upgrade,upgrade,0.9312127302406662,technical,0.026172895907848062,0.9050398343328181,True
+I'm really disappointed with how my issue has been handled.,complaint,complaint,0.9771455422599579,billing,0.006244336030722638,0.9709012062292353,True
+Can I temporarily downgrade my plan and upgrade again later without penalty?,upgrade,upgrade,0.9407845910168275,complaint,0.014708708550504915,0.9260758824663227,True
+"Your customer support is really lacking, and it’s frustrating me to no end.",complaint,complaint,0.9618275661068671,technical,0.01608636893138721,0.9457411971754799,True
+"Every time I log in, I see a weird error message. It’s super annoying.",technical,technical,0.9630783154390067,complaint,0.014350523729024723,0.948727791709982,True
+I need to cancel my plan today as it's no longer needed.,cancellation,cancellation,0.9005028809823385,upgrade,0.02749986439282298,0.8730030165895155,True
+I feel completely let down by your service; it's unacceptable.,complaint,complaint,0.9648943977867416,technical,0.010421031921177897,0.9544733658655636,True
+"I've been trying to get help, but it feels like no one cares about my concerns.",complaint,complaint,0.9806110619031104,billing,0.007473930793753178,0.9731371311093573,True
+Can you confirm my cancellation has been processed?,cancellation,cancellation,0.4784670991888714,billing,0.23629467953925776,0.24217241964961367,True
+"I can’t afford this anymore, so I need to cancel my membership.",cancellation,cancellation,0.9771192407058781,complaint,0.005754654936430617,0.9713645857694475,True
+"Every time I click on the reports tab, I receive an error. What’s going on?",technical,technical,0.8746203865505503,billing,0.05214563748906815,0.8224747490614821,True
+I believe I was overcharged this month. Can someone review my account?,billing,billing,0.8690503862743726,complaint,0.044687952231768975,0.8243624340426036,True
+"I thought I was dealing with professionals, but this has been a letdown.",complaint,complaint,0.9080672130685189,billing,0.041023289042117085,0.8670439240264018,True
+This service isn't for me. Please cancel my account.,cancellation,cancellation,0.9940225424185978,billing,0.00271889073902327,0.9913036516795745,True
+I keep encountering a 'Page Not Found' error when clicking on certain links.,technical,technical,0.843856730731197,api,0.08087792419079234,0.7629788065404047,True
+"Every time I contact support, I feel like I'm talking to a wall.",complaint,complaint,0.9463555063184161,technical,0.02169991311316529,0.9246555932052508,True
+I’m frustrated with my current plan and want to downgrade. How can I do that?,upgrade,upgrade,0.9612534439041901,cancellation,0.01896156684239724,0.9422918770617928,True
+I'd like to cancel everything and close my account. Thanks.,cancellation,cancellation,0.9740290007868838,billing,0.008060576186396134,0.9659684246004877,True
+Is there a way to see a log of all my API requests? I want to debug some issues.,api,api,0.9192620291049707,billing,0.028721046115053574,0.8905409829899171,True
+"My payment didn’t go through, and now my account is suspended. Can you reinstate it?",billing,billing,0.8449648278959627,cancellation,0.0882001434348428,0.7567646844611199,True
+Why does my invoice show a charge I wasn’t made aware of before?,billing,billing,0.9190165132693178,api,0.026554030821925857,0.8924624824473919,True
+Could you tell me the best practices for making efficient API calls?,api,api,0.8685145255930182,billing,0.041353183737970846,0.8271613418550474,True
+I want to explore the premium features. Is there a demo available before I upgrade?,upgrade,upgrade,0.9758721755170132,technical,0.007428730762231407,0.9684434447547818,True
+Can you assist me in canceling my subscription?,cancellation,cancellation,0.9218987514591509,billing,0.0398843550470219,0.882014396412129,True
+I need assistance with a charge that I don’t recognize. Please help!,billing,billing,0.751115524187099,cancellation,0.07971570233354863,0.6713998218535504,True
+"I tried to make a payment, but it didn’t go through. What should I do next?",billing,billing,0.738515941284979,api,0.08906230893474461,0.6494536323502343,True
+"I updated my API key, but it’s still not working. What could be wrong?",api,api,0.9606514185026431,technical,0.011608645390593125,0.94904277311205,True
+I've lost count of how many times I've had to remind you of my issue.,complaint,complaint,0.6917020531782141,api,0.08077237013896811,0.610929683039246,True
+Could someone explain how long it takes for webhook events to show up in my logs?,api,api,0.520994661528024,complaint,0.17798701924130414,0.34300764228671987,True
+Your service quality is really subpar and it's driving me crazy.,complaint,complaint,0.8780503549747584,technical,0.06275240331831451,0.8152979516564438,True
+How long does it take for a refund to process? I’m anxious to see it back.,billing,billing,0.33105734162477046,complaint,0.22383362406904223,0.10722371755572824,True
+Is there a way to log all API calls made from my application for debugging purposes?,api,api,0.9056709482632412,technical,0.026207298502913666,0.8794636497603275,True
+Why isn’t my webhook firing when I expect it to? I’ve checked everything on my end.,api,api,0.5720316293552606,billing,0.15739056899892287,0.41464106035633774,True
+I'm not sure why I got charged for a service I didn't use. Can I get that fixed?,billing,billing,0.9489327963417417,api,0.014445199479746271,0.9344875968619953,True
+I heard about the new features in the Enterprise plan. Can you tell me more?,upgrade,upgrade,0.9603610134934382,billing,0.013699368618433922,0.9466616448750043,True
+I'm currently on the Standard plan and am curious about the additional perks of the Premium version.,upgrade,upgrade,0.77720463441367,technical,0.06962534801727711,0.7075792863963929,True
+I just realized I was billed for two months instead of one. Can you fix this?,billing,billing,0.8704207681525786,complaint,0.046861693204038414,0.8235590749485402,True
+It seems like I can’t edit my profile anymore. The option just isn’t there.,technical,technical,0.7982928156133641,complaint,0.0522779847628494,0.7460148308505147,True
+This is getting ridiculous. I’ve waited long enough for some answers.,complaint,complaint,0.807704460065022,technical,0.06081496919044308,0.7468894908745789,True
+I have been getting a '404 Not Found' error when I try to access the help page.,technical,technical,0.9306193067932719,api,0.03708412570124139,0.8935351810920305,True
+Could you explain the late fee on my latest invoice? I thought I paid on time.,billing,billing,0.9740841239820265,api,0.008204405900017059,0.9658797180820095,True
+Why am I hitting the rate limit so quickly? I thought I was under my quota.,api,api,0.7453784884006396,billing,0.10133452867710036,0.6440439597235392,True
+Why is the loading time so ridiculously slow right now? It's driving me insane!,technical,technical,0.7693404413127624,complaint,0.09777582743505177,0.6715646138777106,True
+The app keeps crashing when I try to access my settings.,technical,technical,0.9948535199843251,api,0.001897976758116678,0.9929555432262085,True
+"I thought the updates were supposed to fix the bugs, but it’s still not working right.",technical,technical,0.7449133251966994,api,0.09951593222243492,0.6453973929742645,True
+I’d like to know if there’s a way to lower my monthly bill without switching plans.,billing,billing,0.616726219984631,upgrade,0.3066663710626163,0.31005984892201466,True
+The search function is not retrieving any results. Can you help?,technical,technical,0.8492313660306764,api,0.06151271978423788,0.7877186462464385,True
+"Please end my subscription right now, thank you!",cancellation,cancellation,0.950912148136789,upgrade,0.013309546966023418,0.9376026011707657,True
+I want to switch to a better plan but I don’t want to disrupt my service. How can I do this?,upgrade,upgrade,0.7783664982421213,cancellation,0.13763120387698707,0.6407352943651343,True
+"Honestly, I’m just fed up. This has been the worst experience I've had with any company.",complaint,complaint,0.9677625557544124,technical,0.013117187290834414,0.954645368463578,True
+Do I get a discount if I switch to an annual plan?,upgrade,upgrade,0.9193727785309692,billing,0.02401845921598168,0.8953543193149875,True
+"Every time I reach out for help, I just feel more frustrated than before.",complaint,complaint,0.9184963576101216,technical,0.028732692026500934,0.8897636655836206,True
+"I was in the middle of something important, and the app just crashed!",technical,technical,0.9189695297975528,complaint,0.025717925255386558,0.8932516045421662,True
+"I'm not happy with this service, so cancel my subscription, please.",cancellation,cancellation,0.9883285588909657,complaint,0.0061368089158575145,0.9821917499751082,True
+"I'm trying to integrate your API with my app, but I'm stuck on the authentication. Any tips?",api,api,0.9719436511968363,technical,0.015669662878608555,0.9562739883182277,True
+I've never encountered such poor service in my life.,complaint,complaint,0.7635103734494832,billing,0.06528138021929274,0.6982289932301905,True
+What are the steps to downgrade without a penalty?,upgrade,upgrade,0.8652333382289457,api,0.06649552480252863,0.798737813426417,True
+Please help me stop the automatic renewal on my subscription.,cancellation,cancellation,0.6116759518749006,billing,0.196840030941685,0.41483592093321564,True
+I need to cancel before the next billing cycle starts.,cancellation,cancellation,0.8077090580066666,upgrade,0.0614964552033301,0.7462126028033365,True
+"I've dealt with a lot of customer services, and yours is by far the worst.",complaint,complaint,0.7400915707559458,technical,0.09831217334834708,0.6417793974075987,True
+I’m frustrated with my current plan and would like to explore the next level up.,upgrade,upgrade,0.7843076544503276,cancellation,0.06965085294181791,0.7146568015085096,True
+Why does it take so long to resolve simple issues?,complaint,complaint,0.6094991957057261,technical,0.12362242119094632,0.48587677451477973,True
+Can you confirm my subscription has been canceled? I don’t want to be charged again.,cancellation,cancellation,0.848973811296719,billing,0.09651134423659086,0.7524624670601281,True
+"I received an email about a price increase, but I didn't see any details. Can you explain?",billing,billing,0.8337194735857294,api,0.06872568025582214,0.7649937933299072,True
+"I need to cancel my subscription right away, thanks.",cancellation,cancellation,0.9926928518792926,billing,0.0026935839821142166,0.9899992678971784,True
+"I tried updating the software, but the update fails every time. What now?",technical,technical,0.8952662083087224,api,0.030553910649318276,0.8647122976594042,True
+The app crashes every time I try to save my project.,technical,technical,0.9913651765189534,api,0.002392334572662544,0.9889728419462909,True
+It’s difficult to believe I’m valued when your support is this poor.,complaint,complaint,0.9444722913047683,technical,0.018186583642764646,0.9262857076620037,True
+How often are the rate limits reset on your API?,api,api,0.9864445538374469,complaint,0.004499696215066873,0.98194485762238,True
+Can you help me understand the benefits of going from Standard to Premium?,upgrade,upgrade,0.590523483233444,billing,0.18375664518831725,0.4067668380451267,True
+I'm shocked at how unhelpful your support team has been; this needs to change.,complaint,complaint,0.9649305460127906,upgrade,0.010189177661321895,0.9547413683514687,True
+I've had enough and want to stop my subscription.,cancellation,cancellation,0.9505100349523485,complaint,0.023556152134655353,0.9269538828176932,True
+"If I upgrade my plan, will I lose any of the features I currently enjoy?",upgrade,upgrade,0.9859838876237028,technical,0.005034500631173613,0.9809493869925292,True
+My recent invoice seems to have some unexpected fees. What’s going on?,billing,billing,0.8782534004396212,technical,0.04473829428405762,0.8335151061555636,True
+Can I switch my plan back if I don’t like the upgrade?,upgrade,upgrade,0.9775488698142736,technical,0.007941081548710602,0.9696077882655629,True
+I accidentally made a duplicate payment this month. What’s the process for getting one of those refunded?,billing,billing,0.775843992099322,api,0.07737577037586776,0.6984682217234542,True
+Please remove me from your list; I do not wish to renew.,cancellation,cancellation,0.4588768016416563,complaint,0.20571878165473587,0.25315801998692045,True
+Your support staff seems to be completely overwhelmed and it's affecting me as a customer.,complaint,complaint,0.9043305309818336,technical,0.03087845476574098,0.8734520762160926,True
+"Hey, I got charged for something I didn’t order. Can you look into it?",billing,billing,0.8940459300257786,technical,0.04318579452750981,0.8508601354982688,True
+I'm interested in the features on the Gold plan. What do I get?,upgrade,upgrade,0.8966328175807144,technical,0.042072541372895074,0.8545602762078194,True
+"I’ve decided to stop my subscription. Make it happen, please.",cancellation,cancellation,0.9573824808157477,billing,0.010084260221439139,0.9472982205943086,True
+This is getting ridiculous; no one seems to care about resolving my issue.,complaint,complaint,0.9218132689404834,technical,0.02110541289008501,0.9007078560503984,True
+"The app keeps logging me out unexpectedly, which is driving me nuts.",technical,technical,0.9333984244888511,complaint,0.018397544384322322,0.9150008801045288,True
+"Honestly, I feel like my concerns are falling on deaf ears.",complaint,complaint,0.8701931923270255,technical,0.03410827635351747,0.8360849159735081,True
+Could you provide some examples of how to use your SDK for my project?,api,api,0.8969609656154337,billing,0.03881844729610958,0.8581425183193241,True
+I’d like to know if your API supports pagination in the responses.,api,api,0.8712845166543717,upgrade,0.04690026691341994,0.8243842497409517,True
+I can't believe how long it's taken to get any response from you.,complaint,complaint,0.8404226747587442,api,0.06100751578562875,0.7794151589731154,True
+I don’t understand why it’s so difficult to get a clear response.,complaint,complaint,0.8944126855622955,billing,0.03554210834089845,0.858870577221397,True
+The API documentation is lacking. Can you clarify how to use the search endpoint?,api,api,0.981525665161868,technical,0.007228728430313466,0.9742969367315546,True
+"If I upgrade now, can I still revert to my old plan later easily?",upgrade,upgrade,0.8897621572321726,technical,0.029408809473526667,0.8603533477586459,True
+"Can I upgrade, or do I need to wait until my billing cycle ends?",upgrade,upgrade,0.7783824520384653,billing,0.11106476927647269,0.6673176827619927,True
+I'm not satisfied and want to cancel. What's the next step?,cancellation,cancellation,0.7636229013722055,upgrade,0.10000879954303589,0.6636141018291696,True
+Is there a way to move from my current plan to an upgraded version?,upgrade,upgrade,0.9479438310802485,api,0.025230206690264358,0.9227136243899842,True
+Can you confirm that my subscription has been canceled? I don’t want to be billed again.,cancellation,cancellation,0.8801019510547059,billing,0.08123862333988503,0.7988633277148208,True
+"I'm ready to upgrade, but I’m not clear on the billing cycle for the new plan.",upgrade,upgrade,0.8175707887656133,billing,0.08323831449119844,0.7343324742744148,True
+I can't believe how difficult it is to get a simple question answered.,complaint,complaint,0.8214857550419836,technical,0.04793442763366951,0.7735513274083141,True
+I’ve made up my mind; I’m canceling my subscription today.,cancellation,cancellation,0.8092602070236598,technical,0.05452490910257985,0.7547352979210799,True
+Can you confirm if you support CORS for your API?,api,api,0.9153865023990118,billing,0.024138722572608115,0.8912477798264037,True
+I’m interested in a plan that accommodates more users. What do you recommend?,upgrade,upgrade,0.7043252971439633,api,0.1357254222830024,0.5685998748609609,True
+I just want to cancel my membership and be done.,cancellation,cancellation,0.9717164448124536,complaint,0.009299291312535467,0.9624171534999181,True
+"This isn’t what I expected, so I'd like to cancel my subscription.",cancellation,cancellation,0.9842713401864497,billing,0.007385237176242313,0.9768861030102074,True
+"I tried using OAuth for authentication, but I keep getting a 'token invalid' message.",api,api,0.8438501924336432,technical,0.09838104115482037,0.7454691512788229,True
+My invoice is missing some charges that I expected to see. Can you verify this?,billing,billing,0.9013246604257211,complaint,0.02719575590292045,0.8741289045228007,True
+Why am I seeing a recurring charge I didn't authorize?,billing,billing,0.857258155109626,complaint,0.043119008292924296,0.8141391468167017,True
+I believe I should have received a credit for a previous issue. Can you check if that’s been applied?,billing,billing,0.719616822187557,api,0.09349247716248243,0.6261243450250745,True
+I can't seem to find the endpoint for updating user profiles. Is it documented anywhere?,api,api,0.7088339720918272,technical,0.1771042240910244,0.5317297480008027,True
+Can someone please take my concerns seriously for once?,complaint,complaint,0.7531104781470176,billing,0.06856601543232677,0.6845444627146908,True
+I'm thinking about moving up to the Pro version; can you tell me what's included?,upgrade,upgrade,0.8333355911162768,billing,0.05663556444262616,0.7767000266736506,True
+Is there a sandbox environment available for testing API calls without affecting production data?,api,api,0.9082541851626866,technical,0.028925166784125902,0.8793290183785607,True
+Is there a way to set up automatic payments for my subscription?,billing,billing,0.4958609698256874,api,0.364671585213653,0.1311893846120344,True
+I'm not satisfied with my current plan. How can I downgrade without penalty?,upgrade,upgrade,0.9542082724906795,api,0.011903342106427552,0.942304930384252,True
+My account was charged multiple times this month. Can you assist me in sorting this out?,billing,billing,0.8753013025001072,cancellation,0.0795972566688209,0.7957040458312863,True
+This level of service is simply not what I expect from your company.,complaint,complaint,0.9625223347841013,api,0.011669815883187166,0.9508525189009142,True
+I'm really unhappy with the service and need to cancel.,cancellation,cancellation,0.7350408922978352,complaint,0.1651668918722107,0.5698740004256245,True
+I want to stop my subscription as soon as possible.,cancellation,cancellation,0.9455937216161374,upgrade,0.017042311557481878,0.9285514100586555,True
+"I tried to change my password, but it just says 'error' without explanation.",technical,technical,0.7763734936853949,complaint,0.06068197150642169,0.7156915221789731,True
+I've had enough of this nonsense; it's really testing my patience.,complaint,complaint,0.8807454125795346,cancellation,0.03490341507746778,0.8458419975020669,True
+I've been trying to clear the cache but it doesn't seem to make any difference.,technical,technical,0.4712087158032677,api,0.2392751913931846,0.23193352441008308,True
+Your service quality has declined sharply; it’s really upsetting.,complaint,complaint,0.9370842475717808,technical,0.024167933565812604,0.9129163140059682,True
+I'm encountering a persistent error when trying to log activity. It's so frustrating!,technical,technical,0.6627023995401918,api,0.1388720442160109,0.523830355324181,True
+I can’t access the settings page—it just keeps redirecting to the homepage.,technical,technical,0.9541157366638898,upgrade,0.015587987525228744,0.9385277491386611,True
+Can you help me move from the Basic plan to the Premium plan?,upgrade,upgrade,0.9862267088884012,api,0.004966360007650056,0.9812603488807512,True
+The video player crashes when I attempt to watch anything.,technical,technical,0.8521370601897645,api,0.04464529126683896,0.8074917689229256,True
+Do you have any examples of using your API in a Node.js environment?,api,api,0.9229305994785317,complaint,0.02622707419916657,0.8967035252793651,True
+Is there a way to upgrade to the Premium plan right now?,upgrade,upgrade,0.9925238977013296,api,0.003835463266546293,0.9886884344347834,True
+There’s a constant error that says 'Database connection lost'. What does that mean?,technical,technical,0.4778124023649458,api,0.26586415473404024,0.21194824763090558,True
+Why is the app crashing every time I try to open a specific document?,technical,technical,0.9751963689063069,api,0.009275231365834132,0.9659211375404728,True
+Why is the input lag so bad today? It takes forever to register my clicks.,technical,technical,0.6693614452791583,complaint,0.12377946832338137,0.5455819769557769,True
+Could you clarify the difference between the v1 and v2 endpoints? I'm not sure which one to use.,api,api,0.7722576771655799,upgrade,0.09534763355679433,0.6769100436087856,True
+"I want to upgrade my plan, but I'm not sure what the process is.",upgrade,upgrade,0.9852211953496401,cancellation,0.004110340576927827,0.9811108547727123,True
+The billing info in my account isn’t correct. How can I update it?,billing,billing,0.39359092241370486,technical,0.22123957819236734,0.17235134422133752,True
+What's the procedure for authenticating multiple users with the API? I'm unsure how to proceed.,api,api,0.9313098034395738,upgrade,0.03035631572900327,0.9009534877105705,True
+This is ridiculous! I'm stuck on a loading screen and can't get anything done.,technical,technical,0.5963168443352848,complaint,0.2532472912340599,0.34306955310122483,True
+Can I get a refund if I downgrade my plan after a month?,upgrade,upgrade,0.8846119874582251,billing,0.0778667425730145,0.8067452448852106,True
+I’ve seen an increase in my monthly charges. Why did that happen?,billing,billing,0.8586409810064162,technical,0.039621665412300125,0.819019315594116,True
+I think I was billed for a service I canceled. Can you look into that for me?,billing,billing,0.9570423313765599,cancellation,0.01276383380142484,0.944278497575135,True
+This has been an incredibly frustrating process for me; I expected so much more.,complaint,complaint,0.879832086138992,billing,0.04122940483279404,0.838602681306198,True
+I'm having issues with the SDK installation. Any troubleshooting tips?,api,api,0.8230498914669259,technical,0.08383132615031927,0.7392185653166066,True
+"This service is not what I was promised, and I'm really disappointed.",complaint,complaint,0.9152324654413267,billing,0.03787239123647275,0.877360074204854,True
+I didn't think it was possible to be this let down; I'm shocked.,complaint,complaint,0.5731349152192372,billing,0.22419203020027786,0.3489428850189593,True
+This experience has left a really bad taste in my mouth.,complaint,complaint,0.8329661790610586,technical,0.05115641576822581,0.7818097632928328,True
+I'm shocked at how poorly my situation has been addressed.,complaint,complaint,0.765022925470756,technical,0.07196452613443376,0.6930583993363223,True
+"I expected more promptness and professionalism, but I got neither.",complaint,complaint,0.5786778321641093,billing,0.1453361988059839,0.43334163335812537,True
+It feels like no one is taking my issue seriously; I’m really frustrated.,complaint,complaint,0.9461862474520355,technical,0.019306048807823523,0.926880198644212,True
+"The app crashed right in the middle of my task, and now it won't reopen.",technical,technical,0.9381041302901679,cancellation,0.014992340518541201,0.9231117897716268,True
+I encountered an unexpected error when hitting one of your API endpoints. Can I get more details?,api,api,0.8983755437414624,complaint,0.03479269723472243,0.86358284650674,True
+Why was I charged for two subscriptions when I only have one?,billing,billing,0.9142142450480241,complaint,0.025586249192775346,0.8886279958552488,True
+"I’ve tried to update the app, but it just won’t let me do it. Any fixes for this?",technical,technical,0.8529645060938477,complaint,0.05021903294140639,0.8027454731524413,True
+I feel completely ignored as a customer. What is going on?,complaint,complaint,0.8828784633143544,billing,0.035784010084432195,0.8470944532299222,True
+Is it possible to switch my current plan to an annual subscription?,upgrade,upgrade,0.9912086476156853,billing,0.002475031843048937,0.9887336157726363,True
+"Every time I click on a link in your app, it crashes. What’s the deal?",technical,technical,0.8209771859995358,complaint,0.059434671478460474,0.7615425145210754,True
+What happens to my existing data if I decide to downgrade?,upgrade,upgrade,0.8655257400350008,api,0.05685378818009407,0.8086719518549068,True
+Why am I being charged a late fee? I thought I paid on time.,billing,billing,0.8885617998139925,complaint,0.04566382336086343,0.8428979764531291,True
+I’m requesting a cancellation of my subscription as soon as possible.,cancellation,cancellation,0.8460499011246128,billing,0.05136182411854291,0.7946880770060698,True
+Can you clarify if switching from monthly to annual plan saves me money?,upgrade,upgrade,0.9197855159070254,billing,0.035082061044268135,0.8847034548627573,True
+What happens if I exceed my API rate limit? Will it just block requests?,api,api,0.9625397365164093,technical,0.00976350178885818,0.9527762347275511,True
+"The notifications aren't working, I'm missing important updates.",technical,technical,0.9531329843342683,api,0.01956064667952149,0.9335723376547468,True
+Why is it so hard to get a simple response? This is beyond frustrating.,complaint,complaint,0.9737629391474052,technical,0.009884457059557827,0.9638784820878473,True
+Can you help me? I keep getting a 'page not found' error when trying to access my profile.,technical,technical,0.828391521999906,api,0.12117002087676494,0.707221501123141,True
+"I noticed an unexpected charge on my statement, can you help me figure this out?",billing,billing,0.9542296836810599,technical,0.012712968339168467,0.9415167153418914,True
+"I tried to reset my password, but I never received the reset email.",technical,technical,0.7120870584499341,complaint,0.08732215528963089,0.6247649031603033,True
+I can't seem to format my text properly; the toolbar isn’t responding.,technical,technical,0.7468127897470012,api,0.14184837132428424,0.604964418422717,True
+What are the benefits of upgrading to the Plus plan?,upgrade,upgrade,0.9682322640997038,api,0.012654131120313428,0.9555781329793903,True
+It seems like my webhook payload is not formatted correctly. What should it look like?,api,api,0.6126779522328353,complaint,0.14300252816228443,0.46967542407055085,True
+This is my formal request to end my service with you.,cancellation,cancellation,0.7021792290712554,complaint,0.15367932305372325,0.5484999060175322,True
+"My app relies on the API, and it's not responding. What could be the issue?",api,api,0.8691006929124712,technical,0.08305869877627586,0.7860419941361954,True
+I’ve never felt so frustrated with a company before; something needs to change.,complaint,complaint,0.824352849581319,upgrade,0.051443781286308124,0.7729090682950109,True
+My webhook URL keeps getting rejected. What could be the issue?,api,api,0.8812944583373423,technical,0.055650073418113746,0.8256443849192285,True
+I keep having to restart my device because the app is so unstable.,technical,technical,0.9375446484677122,api,0.02256332471447226,0.9149813237532399,True
+I can’t get past the loading screen; it just hangs there.,technical,technical,0.8860041616584122,billing,0.030257984524448826,0.8557461771339634,True
+I'm getting inconsistent responses from the API. Could it be a server-side problem?,api,api,0.8471579261208241,technical,0.0654588657070375,0.7816990604137866,True
+The website is taking forever to load today; what's going on?,technical,technical,0.8543512067994776,billing,0.03932834847202576,0.8150228583274519,True
+What’s the best way to test the API locally without hitting the live endpoint?,api,api,0.9801397813667848,upgrade,0.01043473073657588,0.969705050630209,True
+Why does your software keep crashing when I try to save my work? This is really frustrating!,technical,technical,0.8923322191894763,complaint,0.06040720612905088,0.8319250130604253,True
+Please make sure my subscription is canceled and confirm it.,cancellation,cancellation,0.925171231271396,billing,0.026759898044345417,0.8984113332270506,True
+"I want to take my business elsewhere, so please close my account.",cancellation,cancellation,0.873014043068244,complaint,0.047350436448537016,0.8256636066197071,True
+I think there’s a bug in the new update; it keeps freezing on my screen.,technical,technical,0.9001552297123757,billing,0.04403187330431491,0.8561233564080608,True
+How can I test API responses without affecting my production data?,api,api,0.831106231459504,upgrade,0.0450214769659417,0.7860847544935623,True
+I can’t get over how unhelpful your staff has been. This is insane.,complaint,complaint,0.9446802687617285,billing,0.014866486490213696,0.9298137822715148,True
+"Hey, I want to upgrade but don’t want to lose my current data. Can I do that?",upgrade,upgrade,0.8689997983764295,cancellation,0.04281845608388818,0.8261813422925413,True
+The homepage takes forever to load; it’s very frustrating.,technical,technical,0.747166327125083,complaint,0.13781226165067656,0.6093540654744065,True
+The export to PDF feature is completely unresponsive for me.,technical,technical,0.8801135817854768,complaint,0.03048115652960739,0.8496324252558695,True
+I expected much better from your company and I'm really let down.,complaint,complaint,0.9580111838219156,technical,0.012058377202771732,0.9459528066191439,True
+I’m really not pleased at all with your service; I expected more professionalism.,complaint,complaint,0.8623289000149962,technical,0.04695354136401354,0.8153753586509827,True
+Why did my subscription price increase when I didn’t change anything?,billing,billing,0.9053851177675903,technical,0.03006481327802116,0.8753203044895692,True
+I no longer wish to continue my subscription; please take care of this.,cancellation,cancellation,0.9046012430988586,complaint,0.04574643409224167,0.8588548090066169,True
+I'm having trouble with API authentication; it keeps failing even though I'm using the right key.,api,api,0.8225651901961631,technical,0.15541316467252217,0.667152025523641,True
+The analytics dashboard is displaying incorrect data; it’s really frustrating.,technical,technical,0.9087759919225543,complaint,0.040043180636701134,0.8687328112858532,True
+Please go ahead and terminate my account.,cancellation,cancellation,0.9430526117546647,technical,0.016339874720643383,0.9267127370340213,True
+Do you have a status page for API uptime and incidents?,api,api,0.9016010108454895,billing,0.03598903011198723,0.8656119807335023,True
+My requests to the API are timing out; is there a known issue right now?,api,api,0.9348806246256902,technical,0.029909280629229755,0.9049713439964605,True
+I wish to end my subscription without any complications.,cancellation,cancellation,0.8572205241345942,upgrade,0.04778645043325363,0.8094340737013406,True
+How can I make sure my account won't renew next month?,cancellation,cancellation,0.866545129625978,billing,0.04843364891632888,0.8181114807096491,True
+I’ve noticed a recurring charge that I didn’t authorize. How can I dispute this?,billing,billing,0.8828075590283396,complaint,0.04359428888974365,0.8392132701385959,True
+I’m considering downgrading my plan. Can you explain the process?,upgrade,upgrade,0.9589711861553992,billing,0.01808200447399078,0.9408891816814084,True
+The app just crashed when I tried to share a document. So frustrating!,technical,technical,0.9127150921104631,complaint,0.04424626456699566,0.8684688275434674,True
+I don’t recall authorizing this recent charge. Can you look into it for me?,billing,billing,0.8258486100002278,technical,0.05756912630233089,0.7682794836978969,True
+"Your service is underwhelming, and I'm quite unhappy with it.",complaint,complaint,0.9330518316137133,cancellation,0.018150180292077808,0.9149016513216355,True
+I’m really frustrated! The app keeps timing out on me.,technical,technical,0.9224078642121587,api,0.022044648053662356,0.9003632161584963,True
+The latest update seems to have broken the chat feature; can you fix it?,technical,technical,0.9315049340545891,billing,0.027025904116804104,0.9044790299377851,True
+I experienced a sudden crash while trying to generate a report; what’s going on?,technical,technical,0.49698605205301394,billing,0.16851073489876087,0.32847531715425304,True
+How frequently is the data in your API updated?,api,api,0.9315362918563974,complaint,0.027006815575741364,0.904529476280656,True
+Why is it so hard to get decent support? I'm losing my patience here.,complaint,complaint,0.9322838180895395,technical,0.021787086235104215,0.9104967318544354,True
+"I was supposed to receive a promotional discount, but it's not reflected on my invoice.",billing,billing,0.8527471529335674,technical,0.048458828978614144,0.8042883239549532,True
+Can I use your API with serverless functions? Are there any specific requirements?,api,api,0.9804701053370256,complaint,0.005475093766251467,0.9749950115707742,True
+I want to move from the Standard to the Pro plan. What's the first step?,upgrade,upgrade,0.9655660820027084,api,0.012885856754257068,0.9526802252484514,True
+I’d like to cancel the recurring payment for my account.,cancellation,cancellation,0.7178666097372581,billing,0.24079384541355153,0.4770727643237066,True
+I just want to confirm that the endpoint I'm using for user data is up to date. Can you verify this for me?,api,api,0.5214870728441183,billing,0.1834019625208286,0.3380851103232897,True
+I’d like confirmation that my last payment went through successfully.,billing,billing,0.8539629088049863,technical,0.041601885625378976,0.8123610231796072,True
+I'm done with this account; cancel it for me.,cancellation,cancellation,0.8764154330294038,billing,0.04540348682043675,0.8310119462089671,True
+I’m a bit confused about the different API versions. Which one should I use?,api,api,0.7406399537187807,billing,0.08495290691137959,0.6556870468074011,True
+"I want to go for the Pro version, but I'm not sure how to upgrade.",upgrade,upgrade,0.9326571674808124,api,0.03203615018737097,0.9006210172934415,True
+I need help with pagination in your API responses.,api,api,0.9139716574448876,complaint,0.04503017629440533,0.8689414811504823,True
+I'm done with this subscription. Please cancel it for me.,cancellation,cancellation,0.9755369240339065,billing,0.009030553883572805,0.9665063701503337,True
+I’m encountering a strange issue with the API response format; is it supposed to change often?,api,api,0.7528716738785092,technical,0.10354060277261104,0.6493310711058982,True
+"The documentation mentions webhooks, but I can't find information on how to test them.",api,api,0.9101839206573891,technical,0.025877030825587528,0.8843068898318015,True
+I’m really frustrated with my current plan – can I downgrade easily?,upgrade,upgrade,0.956820250808802,billing,0.012272851556673927,0.944547399252128,True
+I'm having issues with the payment processing—it keeps failing without any error message.,technical,technical,0.9108076572863861,api,0.04018322893699422,0.8706244283493919,True
+Is there a trial period available if I upgrade my subscription?,upgrade,upgrade,0.9480779549136931,billing,0.01811816469915617,0.9299597902145369,True
+Is there a limit on how many requests I can send per minute with the basic plan?,api,api,0.7282182227879542,upgrade,0.16323505656050497,0.5649831662274493,True
+Please cancel my account before the next billing date.,cancellation,cancellation,0.964875844388799,billing,0.014820755371660606,0.9500550890171384,True
+I would like to cancel my monthly plan. Thank you.,cancellation,cancellation,0.9062649772137961,upgrade,0.04052023116999439,0.8657447460438017,True
+I have questions about moving to the Enterprise plan. Can someone assist me?,upgrade,upgrade,0.8133179764294232,billing,0.06865850069552794,0.7446594757338952,True
+"I thought your service would be better, but this is unacceptable.",complaint,complaint,0.9742176723977626,billing,0.007551823743983167,0.9666658486537794,True
+"Every time I try to print from the app, it crashes. This is really frustrating!",technical,technical,0.9454277977486191,complaint,0.0405122027800423,0.9049155949685768,True
+Why does my bill have additional fees that weren’t there last month?,billing,billing,0.9784990415789265,api,0.0065850227110685385,0.971914018867858,True
+Can you provide an explanation for the recent increase in my monthly fee?,billing,billing,0.8125065465427844,api,0.09547916739980153,0.7170273791429829,True
+I’m really frustrated because I didn’t authorize this additional charge on my account.,billing,billing,0.9322743154248788,complaint,0.02028621497331519,0.9119881004515636,True
+The calendar sync feature just stopped working. I need it back ASAP!,technical,technical,0.8711827884820404,api,0.03801320739303462,0.8331695810890059,True
+Why is the app crashing every time I try to pull up my past orders?,technical,technical,0.9488110858725134,billing,0.015223803546646432,0.933587282325867,True
+Why am I receiving a 'permission denied' error when trying to access certain endpoints?,api,api,0.7275255457321537,technical,0.19067960668424458,0.5368459390479091,True
+I'd like to discontinue my plan; can we get that sorted?,cancellation,cancellation,0.2983509108324427,billing,0.2929937683981204,0.005357142434322282,True
+Can you cancel my account? I just don't find it useful anymore.,cancellation,cancellation,0.7685066049940247,billing,0.07627011172272856,0.6922364932712961,True
+The chat support option just spins and never connects me to a representative. What’s going on?,technical,technical,0.5610178201830658,complaint,0.20909005924378338,0.3519277609392824,True
+Can I please have a receipt for my recent payment?,billing,billing,0.875491423955603,cancellation,0.031198423509675038,0.8442930004459279,True
+"Every time I contact you, I leave feeling more frustrated than before.",complaint,complaint,0.7012835305323776,technical,0.11151271292016643,0.5897708176122112,True
+Is there a quick guide on how to use your SDK for Python integration?,api,api,0.9513942791167974,complaint,0.015074077661801365,0.9363202014549961,True
+Can you help me with upgrading my subscription? I’m looking at the Premium plan.,upgrade,upgrade,0.93223692594655,cancellation,0.03232511048488085,0.8999118154616692,True
+How do I go about cancelling my service?,cancellation,cancellation,0.7256735365281689,upgrade,0.09000807768932641,0.6356654588388425,True
+I want to get the ultimate experience. How do I move to the highest tier?,upgrade,upgrade,0.7970758595709758,complaint,0.06401182046970393,0.7330640391012719,True
+Can you remind me what benefits I’d get with the higher-tier plan?,upgrade,upgrade,0.8313442892883804,billing,0.0456753280715007,0.7856689612168798,True
+"Just a heads up, I won’t be renewing my plan next billing cycle.",cancellation,cancellation,0.45337963024589745,upgrade,0.15492693134423613,0.2984526989016613,True
+Do you have any examples of using the API in a Node.js environment?,api,api,0.928883382936325,technical,0.020037891350515372,0.9088454915858096,True
+The app crashes whenever I click on the settings tab. Can you please look into this?,technical,technical,0.933504572022066,billing,0.025237144828040025,0.908267427194026,True
+What do I need to do to switch from my current subscription to the annual plan?,upgrade,upgrade,0.9889857949555343,cancellation,0.0032439740448704057,0.9857418209106639,True
+"I've tried every endpoint listed, but my data isn't coming through. What's going on?",api,technical,0.5214723556581982,api,0.22983163885950972,0.2916407167986884,False
+"My application keeps crashing on startup; I've tried reinstalling it, but nothing works.",technical,technical,0.7107779357296272,complaint,0.1180682506579641,0.5927096850716631,True
+Can I have multiple API keys for different environments? I need that for testing purposes.,api,api,0.823620802627808,billing,0.07636019715259469,0.7472606054752133,True
+Please make sure my subscription is cancelled before the next billing date.,cancellation,cancellation,0.8657517810106607,billing,0.054670636358001706,0.811081144652659,True
+How do I know if my OAuth token is still valid? It’s quite confusing.,api,api,0.6148364808453074,billing,0.13744305627336384,0.47739342457194356,True
+The link you sent me leads to an error page. What's going on?,technical,technical,0.7573913450550297,billing,0.08060350920278854,0.6767878358522411,True
+Does your API support pagination for large datasets?,api,api,0.8653153668085541,complaint,0.07461975396229914,0.790695612846255,True
+What’s the quickest way to get upgraded to the premium features I’ve heard about?,upgrade,upgrade,0.9563255640465206,complaint,0.013998212585778469,0.9423273514607421,True
+I need to stop the charges and cancel my account. Thanks.,cancellation,cancellation,0.9781744292242178,billing,0.00902620028586301,0.9691482289383548,True
+"Each time I attempt to print from the app, it just freezes up.",technical,technical,0.8984061565024051,complaint,0.04462733211229088,0.8537788243901142,True
+I don’t appreciate feeling like just another number in your system.,complaint,complaint,0.6676918583802595,technical,0.11794451498660559,0.5497473433936538,True
+Your staff seems completely overwhelmed and unhelpful.,complaint,complaint,0.6856941170551533,technical,0.11514899358748427,0.570545123467669,True
+I no longer wish to use your service. Please process my cancellation.,cancellation,cancellation,0.8650480839851997,complaint,0.07985312240095703,0.7851949615842427,True
+Please help me with canceling my plan. I’m feeling overwhelmed.,cancellation,cancellation,0.8003490526047106,upgrade,0.08697879059876816,0.7133702620059424,True
+I’m losing my patience trying to get a simple answer.,complaint,complaint,0.8076428568565707,technical,0.05355447745593057,0.7540883794006401,True
+What benefits do I get if I move to the Deluxe plan?,upgrade,upgrade,0.9425355645566127,api,0.020861078021213637,0.9216744865353991,True
+Can you assist me in canceling my account? I'm not using it anymore.,cancellation,cancellation,0.9429630179424789,billing,0.01712741124351952,0.9258356066989595,True
+I keep getting a 401 error when trying to authenticate. What am I doing wrong?,api,api,0.8654194020595023,technical,0.07729192499763118,0.7881274770618711,True
+I’m having trouble understanding the late fees on my account. Can someone explain how those were calculated?,billing,billing,0.6590622341942899,technical,0.11312675524997048,0.5459354789443194,True
+The email notifications aren’t coming through; I’m not sure what’s going on.,technical,technical,0.7711786295454922,api,0.0781466847452906,0.6930319448002016,True
+The mobile version has issues with the layout; it’s hard to read.,technical,technical,0.6741386963869226,complaint,0.14001988615521097,0.5341188102317116,True
+I didn’t authorize this charge on my account. How can I dispute it?,billing,billing,0.943814053597342,cancellation,0.0195749103294453,0.9242391432678968,True
+Why did my membership fee suddenly go up? I’m really surprised by this.,billing,billing,0.6524978373026803,complaint,0.12222958547672132,0.5302682518259589,True
+Can you explain how to authenticate using Basic Auth with your API? I'm a bit lost.,api,api,0.9643650669687484,upgrade,0.01184784926637885,0.9525172177023695,True
+I think there’s a bug affecting the calendar feature. It won’t let me add events.,technical,technical,0.9463124953245978,api,0.013453305164290802,0.932859190160307,True
+"I don't know what's going on, but the application won't open at all!",technical,technical,0.7951147746335407,complaint,0.06482940795963626,0.7302853666739044,True
+Can you please ensure my subscription isn't renewed next month?,cancellation,cancellation,0.9265980747773831,billing,0.036099960883992296,0.8904981138933908,True
+What should I do if my application exceeds the rate limit temporarily?,api,api,0.9657765555159128,upgrade,0.01115621952079288,0.9546203359951199,True
+I think there’s a mistake on my billing statement—who can I talk to?,billing,billing,0.8916784747027136,upgrade,0.02702222881112176,0.8646562458915918,True
+Can you process my cancellation request? I don’t want to be charged again.,cancellation,cancellation,0.8969987814045547,billing,0.052838773572201916,0.8441600078323528,True
+I want to dispute a charge that I believe is incorrect. What do I need to do?,billing,billing,0.806183049146736,upgrade,0.07504260572787642,0.7311404434188595,True
+Can you explain the steps to authenticate via JWT instead of OAuth?,api,api,0.5992764218864992,upgrade,0.1390623217152895,0.4602141001712097,True
+Is there a way to check my billing history? I want to verify a previous payment.,billing,billing,0.9143018208655159,api,0.029341621637933968,0.884960199227582,True
+I want to opt-out of my plan and cancel my account.,cancellation,cancellation,0.9884846791984339,upgrade,0.006721855495555849,0.981762823702878,True
+It's been a nightmare trying to get someone to listen to my concerns.,complaint,complaint,0.8574520011902035,technical,0.043283429547830966,0.8141685716423726,True
+I don't want to continue my service past this billing period. Please cancel.,cancellation,cancellation,0.8765561518734419,billing,0.08224241839485166,0.7943137334785902,True
+I'm reaching out to cancel my membership. Thank you.,cancellation,cancellation,0.9713278353491038,billing,0.00754955310856957,0.9637782822405343,True
+Why does my bill look different this time? I was not expecting this increase.,billing,billing,0.8808365004789932,complaint,0.04963245613953698,0.8312040443394563,True
+I was expecting a refund for my last purchase. When will it be processed?,billing,billing,0.9374207044196481,api,0.01924404003485481,0.9181766643847933,True
+What’s the best practice for handling rate limit errors in my application?,api,api,0.8923328134169022,billing,0.033551940854067874,0.8587808725628343,True
+I want to cancel my membership before the next billing date.,cancellation,cancellation,0.9671604782419029,billing,0.012248441341357469,0.9549120369005454,True
+"I’m looking to terminate my service, what steps should I take?",cancellation,cancellation,0.4777301436612089,upgrade,0.13405991461671465,0.3436702290444943,True
+"I've set up OAuth, but I'm getting an invalid token error when I try to make a request. How do I fix this?",api,api,0.8653465717837696,technical,0.06522714487109049,0.8001194269126791,True
+I'm having difficulty accessing my billing statements online. Can you help me retrieve them?,billing,billing,0.7555884172708386,api,0.06329294642205423,0.6922954708487844,True
+I don't understand why my latest bill is so high compared to last month.,billing,billing,0.8827048981059179,complaint,0.04596912122014997,0.836735776885768,True
+Could you assist me in canceling my subscription? I’d appreciate it.,cancellation,cancellation,0.9165297473020261,billing,0.0382003629115303,0.8783293843904958,True
+I’m seeing a recurring charge I didn’t authorize. How can we resolve this?,billing,billing,0.8756921243407534,complaint,0.04118590496868749,0.8345062193720659,True
+Why did I get charged a late fee? I thought I paid on time.,billing,billing,0.8901758288481937,complaint,0.041868468760435214,0.8483073600877584,True
+The callback for my webhook seems to be delayed. Are there known issues?,api,api,0.8572786829022153,technical,0.05160429109713653,0.8056743918050788,True
+Is there a limit to how many times I can switch between plans?,upgrade,upgrade,0.6789474248268682,api,0.1609987859754503,0.5179486388514178,True
+I'd like to upgrade to the Ultimate plan but have some questions first.,upgrade,upgrade,0.9516813746081337,technical,0.012422953251884708,0.939258421356249,True
+"I've been treated poorly as a customer, and I don't appreciate it at all.",complaint,complaint,0.8955609221409457,technical,0.04990870809906095,0.8456522140418847,True
+Are there any discounts available if I change to the yearly plan?,upgrade,upgrade,0.8729065526110813,api,0.06369619154568107,0.8092103610654002,True
+What’s the best way to find out about new features when I upgrade?,upgrade,upgrade,0.8000907318642522,api,0.10995257369707961,0.6901381581671726,True
+I keep getting a pop-up saying 'error loading data' when I log in.,technical,technical,0.8995507340661877,api,0.059785402190514134,0.8397653318756736,True
+"I need to get off this service, so please cancel my account.",cancellation,cancellation,0.9876258859515747,complaint,0.006485753091520454,0.9811401328600543,True
+"I don’t know what happened, but my dashboard is completely blank.",technical,technical,0.6510224760319534,complaint,0.12731221099213216,0.5237102650398212,True
+I need a breakdown of my last invoice because it doesn’t add up.,billing,billing,0.8857700301797344,technical,0.051659805885570564,0.8341102242941638,True
+Can you help me with cancelling my subscription? I'm not happy with the service.,cancellation,cancellation,0.7678267962956449,upgrade,0.07763036296661585,0.690196433329029,True
+Can you explain the terms for the refund policy? I'm not quite sure what it covers.,billing,billing,0.6327808232934634,api,0.157342811033143,0.47543801226032045,True
+I expected better after hearing so many good things about you guys.,complaint,complaint,0.6123867027521109,upgrade,0.09524170804161099,0.5171449947104999,True
+I can't access the settings menu; it's just a blank screen. What's going on?,technical,technical,0.9287896186367384,billing,0.021220926835259474,0.9075686918014789,True
+I’m not receiving any notifications from my webhook. Can you help me debug this?,api,api,0.7674793041057629,billing,0.06368762492036384,0.7037916791853991,True
+I keep getting a '403 Forbidden' error when I try to access the reports.,technical,technical,0.8972210921888326,api,0.08107112351876465,0.816149968670068,True
+I don’t want to continue with this service anymore. Please cancel my subscription.,cancellation,cancellation,0.9972535318518146,billing,0.0009877983820381752,0.9962657334697764,True
+"I received an invoice, but the amount doesn't match what we agreed upon. What should I do?",billing,billing,0.7808056367022936,api,0.09515961677612197,0.6856460199261717,True
+How do I handle OAuth token expiration for API requests?,api,api,0.9907993279195338,upgrade,0.002475041727741029,0.9883242861917928,True
+I want to switch to the annual plan. How do I do that?,upgrade,upgrade,0.9864763535122836,cancellation,0.005349550671812547,0.981126802840471,True
+I'm curious about the differences between the Standard and Premium plans. Can you help me decide?,upgrade,upgrade,0.922528434274718,billing,0.021615920991133408,0.9009125132835846,True
+Could you explain the difference between REST and GraphQL in your API?,api,api,0.9390126899776144,upgrade,0.017755701954493757,0.9212569880231207,True
+My application needs to make multiple requests quickly; how can I optimize this?,api,api,0.5607240140592208,complaint,0.1062495844892748,0.454474429569946,True
+Can you help me troubleshoot why my server is not receiving webhook events?,api,api,0.7412770231619993,billing,0.08851677742611994,0.6527602457358793,True
+"I just got my invoice, and it includes a fee I’ve never seen before. What’s that about?",billing,billing,0.7252545387201687,complaint,0.15032074909932408,0.5749337896208446,True
+Why is my bill so much higher than last month? I haven’t changed my plan.,billing,billing,0.8974570438358647,complaint,0.024579907487633425,0.8728771363482313,True
+Why did my payment not go through? I need to ensure my services aren't interrupted.,billing,billing,0.7664586170396818,cancellation,0.08359001620154305,0.6828686008381387,True
+How do I manage my subscription to upgrade it online?,upgrade,upgrade,0.928713696516226,cancellation,0.04292861398543286,0.8857850825307931,True
+Why am I being charged for a service I didn't use?,billing,billing,0.9382920627159322,api,0.022017265790896412,0.9162747969250358,True
+"I want out of my subscription, no questions asked.",cancellation,cancellation,0.7864360365014278,billing,0.08815323695163783,0.69828279954979,True
+I’m done with this. Please cancel my subscription as soon as possible.,cancellation,cancellation,0.9726414192475622,billing,0.009070894356876214,0.963570524890686,True
+Can you help me with canceling my subscription? It's just not working out for me.,cancellation,cancellation,0.9134161094457416,billing,0.034130011578369035,0.8792860978673726,True
+I can’t access the help section; it just gives me a blank page.,technical,technical,0.9152847537600184,complaint,0.023807124245873224,0.8914776295141451,True
+I can't believe how poor the service has become recently.,complaint,complaint,0.7966470796319908,technical,0.05180240212024141,0.7448446775117493,True
+Is there a way to check my current rate limits through the API?,api,api,0.9831332901346436,upgrade,0.0070567568402971235,0.9760765332943464,True
+Could you send me examples of how to use your API with Python? I'm struggling a bit.,api,api,0.9532919960550998,complaint,0.013698800826041599,0.9395931952290583,True
+I noticed an unexpected adjustment on my bill. Can you clarify what it is for?,billing,billing,0.9666373488756418,api,0.013982225248210012,0.9526551236274318,True
+I’m not happy with my plan anymore. Let’s cancel it.,cancellation,cancellation,0.7831361731276582,upgrade,0.10179238481229741,0.6813437883153608,True
+Could you please explain why my subscription cost has gone up?,billing,billing,0.6104251373284786,cancellation,0.15114705856638216,0.4592780787620964,True
+I feel like I'm shouting into the void here; no one is listening!,complaint,complaint,0.8080137071942499,technical,0.07040069434975174,0.7376130128444982,True
+What are the steps to upgrade my account to the Ultimate package?,upgrade,upgrade,0.9618492200000622,api,0.012203623914967094,0.9496455960850951,True
+I would like to formally request the cancellation of my subscription.,cancellation,cancellation,0.9356498610787669,billing,0.022013812032988234,0.9136360490457787,True
+What should I do if my webhook isn't sending data to my application?,api,api,0.8872031276220479,upgrade,0.03244524736672238,0.8547578802553255,True
+Can you explain what happens when I exceed the rate limit? Will it just stop working?,api,api,0.7789480073471241,technical,0.09766303180926804,0.681284975537856,True
+I’ve decided to stop my subscription—how do I do that?,cancellation,cancellation,0.9079878102327048,upgrade,0.04848663129399798,0.8595011789387068,True
+I want to opt out of this service and close my account.,cancellation,cancellation,0.9509277392621363,complaint,0.020992321291883352,0.9299354179702529,True
+"I just installed the update, and now none of my saved preferences are loading. What’s up with that?",technical,technical,0.7417473308209541,complaint,0.06566450432804541,0.6760828264929087,True
+Please go ahead and cancel my account. Thank you.,cancellation,cancellation,0.9794278944927087,billing,0.006712837433605443,0.9727150570591033,True
+I feel like my concerns are falling on deaf ears here.,complaint,complaint,0.8584325744296188,technical,0.036894213127984576,0.8215383613016343,True
+This is ridiculous! I shouldn't have to chase for a response.,complaint,complaint,0.8911724599103227,api,0.03216283309575142,0.8590096268145713,True
+I need a copy of my invoice for tax purposes; could you send that to me?,billing,billing,0.9147179184203792,api,0.022899320992102148,0.8918185974282771,True
+The app keeps freezing whenever I try to upload my files.,technical,technical,0.9906667827092462,api,0.0023312729990753087,0.9883355097101709,True
+I'm not sure if I need the Enterprise plan. Can you help me compare it to my current plan?,upgrade,upgrade,0.9329873407492748,billing,0.027500616720118335,0.9054867240291564,True
+What are the most common causes of failed API requests?,api,api,0.9324663032156503,technical,0.022121470636416375,0.9103448325792339,True
+I just want to let you know that I won’t be renewing my subscription.,cancellation,cancellation,0.818328184213198,billing,0.05790578843710262,0.7604223957760954,True
+I have a question about a past invoice; can you help me find it?,billing,billing,0.8321765792802894,api,0.04474440557326539,0.787432173707024,True
+"I've been trying to resolve this for over a week now, and it's infuriating.",complaint,complaint,0.6320150645867243,billing,0.17516552647413405,0.4568495381125902,True
+I need to know if the API supports batch processing of requests.,api,api,0.9275273977745304,upgrade,0.021918522672861013,0.9056088751016694,True
+"Your service has let me down on multiple occasions, and I'm really unhappy about it.",complaint,complaint,0.8908571935453039,billing,0.03200134749600221,0.8588558460493017,True
+Your support team really needs to step up. This is getting out of hand.,complaint,complaint,0.923970707986442,technical,0.02533660846709679,0.8986340995193451,True
+I noticed a late fee on my account. Can you tell me why I was charged?,billing,billing,0.9911557957023059,cancellation,0.002382700662106311,0.9887730950401996,True
+"I thought I was signing up for good service, but this is a nightmare.",complaint,complaint,0.7918684767181846,billing,0.1388361942652433,0.6530322824529413,True
+The timer function doesn't start when I hit the button; it's so annoying.,technical,technical,0.8718902484647292,api,0.04306548972695519,0.828824758737774,True
+Is there a problem with the integration feature? It's not responding.,technical,technical,0.7617349848143546,api,0.1372412675707824,0.6244937172435723,True
+Is there a bug with the chat feature? My messages aren’t sending.,technical,technical,0.9246476491785274,api,0.027005514148502927,0.8976421350300244,True
+"I’m interested in moving to the Enterprise plan, but I’d like to know more about the features first.",upgrade,upgrade,0.9676693532781222,billing,0.008622283679634586,0.9590470695984876,True
+Can I create a new API key if I think my current one has been compromised?,api,api,0.6502788115590207,complaint,0.13085101247661288,0.5194277990824078,True
+Why is my API key returning a 'not found' error? I’m sure I copied it correctly.,api,api,0.9588962305151295,technical,0.023333735603683084,0.9355624949114464,True
+I'm getting inconsistent responses from the API. Is there a known issue?,api,api,0.9370357633349117,technical,0.03151015228037795,0.9055256110545338,True
+I feel like I'm talking to a brick wall here; no one is listening.,complaint,complaint,0.9217488399139043,technical,0.01908173075699516,0.9026671091569092,True
+I need help understanding the various fees on my invoice.,billing,billing,0.8823400757027738,technical,0.04677066349346049,0.8355694122093134,True
+I noticed an extra charge on my last bill; can you help me figure this out?,billing,billing,0.9900451593597775,technical,0.002419847392549438,0.9876253119672281,True
+"I've had a terrible experience, and it feels like no one cares.",complaint,complaint,0.9799338985790712,technical,0.005773730211100661,0.9741601683679706,True
+Why is it so hard to get a simple answer?,complaint,complaint,0.900626903950061,technical,0.03853064633499727,0.8620962576150637,True
+My password reset link is not working. Can you please send me another?,technical,technical,0.48037591876758484,cancellation,0.19186451872100355,0.28851140004658127,True
+Could you clarify what scopes I need for my API token?,api,api,0.943974278388154,billing,0.04103717064101077,0.9029371077471432,True
+Can you let me know if there's a sandbox environment available for testing?,api,api,0.4498224470565984,billing,0.23573513015805847,0.21408731689853994,True
+Why was my refund request declined? I thought it was within the policy guidelines.,billing,billing,0.7133691455007031,technical,0.09324715494362432,0.6201219905570787,True
+The API response time seems to be slowing down—are there any performance issues?,api,api,0.9386681021814255,technical,0.024826280579075644,0.9138418216023498,True
+Is there a way to test webhooks locally before deploying them?,api,api,0.8038785776561816,upgrade,0.06266264881614486,0.7412159288400368,True
+I'm considering upgrading to the Business tier. What perks does it offer?,upgrade,upgrade,0.9021591911737623,technical,0.036569053240787436,0.8655901379329749,True
+I'm unsure about the differences between the REST and GraphQL endpoints.,api,api,0.43481458425803815,upgrade,0.2652875733629577,0.16952701089508043,True
+It shouldn’t be this hard to get some basic support. I’m frustrated beyond words.,complaint,complaint,0.8968074963271174,technical,0.025673778849463837,0.8711337174776536,True
+Can someone please check the live chat? It keeps crashing on my end.,technical,technical,0.7805403020278627,billing,0.07310869450078288,0.7074316075270799,True
+What should I do if I want to switch from annual billing to monthly?,upgrade,upgrade,0.8297991177104973,billing,0.08644055101263036,0.7433585666978669,True
+This is beyond frustrating; I expected better from your team.,complaint,complaint,0.9816433430272911,api,0.005329446648072033,0.9763138963792191,True
+I've had a terrible experience with your customer service lately.,complaint,complaint,0.9824263994284761,api,0.004816499703568745,0.9776098997249073,True
+I need clarification on the late fee I was charged on my invoice. Can you explain?,billing,billing,0.991699127890853,api,0.0035859441579253813,0.9881131837329277,True
+I can't even get a simple question answered. What's going on?,complaint,complaint,0.3270882681266197,billing,0.234499404659116,0.09258886346750367,True
+"I just want some help, but nobody seems to be available to assist me.",complaint,complaint,0.5516005850496741,api,0.11119203306134658,0.44040855198832757,True
+I’m looking to switch my plan to access more tools. What’s the best way?,upgrade,upgrade,0.9668395542070322,api,0.015375364500402776,0.9514641897066294,True
+"Hey, I think I want to go for the Family plan. How do I make that change?",upgrade,upgrade,0.7504848261600269,billing,0.08109679728546386,0.6693880288745631,True
+I can’t believe I’ve had to wait so long for a response to my issue.,complaint,complaint,0.899430977578203,api,0.02795196932955495,0.8714790082486481,True
+I'm not happy with my subscription and want to terminate it.,cancellation,cancellation,0.9243516416983277,upgrade,0.030643792960649743,0.893707848737678,True
+Why did my subscription fee change without any notice?,billing,billing,0.8638198758157974,upgrade,0.046670165743366465,0.817149710072431,True
+"Your service used to be great, but now it feels like no one cares anymore.",complaint,complaint,0.9363363284284806,cancellation,0.017118206089147735,0.9192181223393329,True
+"The website won't load for me, just a blank screen.",technical,technical,0.9232263561783569,cancellation,0.01734477565163224,0.9058815805267246,True
+I've had a really negative experience and it's leaving a bad taste about your brand.,complaint,complaint,0.886693093345572,technical,0.035483476387733956,0.851209616957838,True
+"What response format does your API return, and can I switch to a different one?",api,api,0.786863392519323,upgrade,0.1052370149422204,0.6816263775771026,True
+I’ve decided to cancel my subscription. Just not using it enough.,cancellation,cancellation,0.9826696808192678,complaint,0.005337033781572387,0.9773326470376954,True
+Please ensure my account is canceled so I don’t see any more charges.,cancellation,cancellation,0.7999710770862961,billing,0.07191433152927008,0.728056745557026,True
+"I was hoping for prompt assistance, but all I've gotten is silence.",complaint,complaint,0.7066515628675156,billing,0.10073935108690013,0.6059122117806155,True
+I keep seeing a 'connection error' message even though my internet is fine.,technical,technical,0.8284753034188138,api,0.0770024254689838,0.75147287794983,True
+I think there’s a glitch in the user interface; the buttons are unresponsive.,technical,technical,0.7520607515785045,api,0.115732206406893,0.6363285451716115,True
+I want to understand what this extra fee is on my latest bill. Can you help?,billing,billing,0.9664018671656033,upgrade,0.00917499448779886,0.9572268726778044,True
+I’m interested in the trial of the Pro plan. Can you explain how that works?,upgrade,upgrade,0.8922094454576255,api,0.0414905464617538,0.8507188989958717,True
+Is there a way to check my current API usage and remaining quota?,api,api,0.8382951051698362,upgrade,0.051648111206335494,0.7866469939635007,True
+Can you provide examples of how to use the SDK for connecting to the API?,api,api,0.9930243115741039,upgrade,0.003235903964410194,0.9897884076096937,True
+I'm not sure if anyone is actually working on my issue—it's been too long.,complaint,complaint,0.5633161356109256,technical,0.1472758936326426,0.41604024197828304,True
+Can you make sure I’m not billed again? I want to cancel.,cancellation,cancellation,0.8537087866443338,billing,0.08239991210650474,0.771308874537829,True
+I’m not sure how you calculated my bill this time. Can you provide a breakdown?,billing,billing,0.8035712977662953,api,0.06398459201564433,0.739586705750651,True
+What endpoints do I need to use for user authentication?,api,api,0.9166076239463744,upgrade,0.026871321744314648,0.8897363022020598,True
+Why is the page loading so slowly? It's really frustrating.,technical,technical,0.8850943375186819,complaint,0.0630740713483137,0.8220202661703683,True
+Your service has been frustrating to deal with; something needs to change.,complaint,complaint,0.9397905753342441,upgrade,0.016346603025336214,0.923443972308908,True
+I noticed the charts aren’t loading. Can you fix that?,technical,technical,0.7225009393747645,billing,0.11900994380805692,0.6034909955667075,True
+Can you confirm that my subscription is canceled? I don’t see any option.,cancellation,cancellation,0.737272684760723,billing,0.13985826464240061,0.5974144201183225,True
+What’s the process to upgrade my account to the next tier?,upgrade,upgrade,0.9842266860834648,cancellation,0.006523531851868192,0.9777031542315966,True
+This is my last attempt to get help. I'm fed up!,complaint,complaint,0.7363140544227367,billing,0.1453898712192437,0.5909241832034929,True
+I'm frustrated because my API calls aren't returning the expected status codes. What could be wrong?,api,api,0.9376242014434377,technical,0.020530829134295853,0.9170933723091419,True
+I can't believe how poor the customer support is; it's really frustrating.,complaint,complaint,0.8955759174197322,technical,0.04651174728004309,0.849064170139689,True
+"If I downgrade, how will my features change?",upgrade,upgrade,0.9047714501570094,complaint,0.023670522833784107,0.8811009273232253,True
+Can I see a detailed breakdown of my last invoice? I want to understand all the charges.,billing,billing,0.9739100292597049,technical,0.007211878696156183,0.9666981505635488,True
+I need assistance upgrading my account. Where do I start?,upgrade,upgrade,0.49091748673705493,cancellation,0.19120984631825835,0.2997076404187966,True
+I want to cancel everything and won't need this service anymore.,cancellation,cancellation,0.9666362189058986,complaint,0.011231786698812276,0.9554044322070863,True
+Can someone please take my complaint seriously for once?,complaint,complaint,0.6735188103288069,billing,0.08901414489955428,0.5845046654292526,True
+Please make sure my account is canceled by the end of this month.,cancellation,cancellation,0.9387642033772584,billing,0.026598184238864144,0.9121660191383942,True
+What are the authentication methods available for accessing the API?,api,api,0.9808733609545743,technical,0.006124955772744759,0.9747484051818296,True
+"I just want to switch to the higher tier, but I'm not sure where to start. Can you help me out?",upgrade,upgrade,0.8926762208493436,api,0.025971555376106324,0.8667046654732373,True
+What’s the process for switching from the Basic plan to Pro?,upgrade,upgrade,0.9456573802242332,api,0.02654530785056034,0.9191120723736729,True
+What should I do if my API request times out frequently?,api,api,0.9232051179994762,billing,0.024540655434599882,0.8986644625648763,True
+I'm having trouble retrieving data from your API; it's returning a 404 error.,api,api,0.9004363184313178,technical,0.05379813436159702,0.8466381840697208,True
+I'm not receiving any updates for my tasks; what's the deal with that?,technical,api,0.41973930626909756,technical,0.19281538952151245,0.2269239167475851,False
+I'm shocked by the lack of communication I've experienced.,complaint,complaint,0.8289722609917516,technical,0.05356914699032257,0.775403114001429,True
+"I've dealt with several representatives, and none have been helpful, which is incredibly frustrating.",complaint,complaint,0.8138384372182857,technical,0.07664551427497233,0.7371929229433134,True
+"Every time I try to upload a file, it just errors out.",technical,technical,0.9667679607037768,complaint,0.01885376357803458,0.9479141971257422,True
+How can I test my API calls without hitting the production environment?,api,api,0.9571399022395538,upgrade,0.012699972357497187,0.9444399298820566,True
+I'm really disappointed with how long it's taking to get any help from your team.,complaint,complaint,0.9782944496561409,api,0.0069963138611146124,0.9712981357950262,True
+"I want to integrate your API with another service, but I'm unsure which endpoints to use. Can you advise?",api,api,0.8879745525086223,complaint,0.02797482808454138,0.8599997244240809,True
+Please terminate my account effective immediately. I've made up my mind.,cancellation,cancellation,0.8997730458069763,technical,0.027213609523675387,0.8725594362833009,True
+This experience has made me reconsider using your services again.,complaint,complaint,0.8235090803084049,api,0.04979647613963472,0.7737126041687702,True
+I want to stop my subscription today. What do I need to do?,cancellation,cancellation,0.8824577000477238,upgrade,0.08183989512522181,0.800617804922502,True
+I need clarification on some charges from my last invoice; they seem off.,billing,billing,0.8740310323569466,technical,0.040494757650516994,0.8335362747064295,True
+"I’m not satisfied, so go ahead and cancel my subscription.",cancellation,cancellation,0.9639346504151909,billing,0.010828364206438505,0.9531062862087524,True
+Can someone explain how to authenticate a request with the API?,api,api,0.9852547823015806,upgrade,0.005651791583821888,0.9796029907177587,True
+"The search function isn't returning any results, even for items I know are there.",technical,technical,0.8953758906385285,api,0.04953080726867002,0.8458450833698585,True
+What’s the easiest way to go from a free trial to a paid plan?,upgrade,upgrade,0.7156515485619936,api,0.09533472157230838,0.6203168269896853,True
+It looks like the calendar feature is not syncing properly; events are missing.,technical,technical,0.9204974630091932,api,0.02418821802389816,0.8963092449852951,True
+Could you remind me when my next payment is scheduled?,billing,billing,0.6927427391762148,technical,0.08949537030556108,0.6032473688706537,True
+Can I upgrade my existing subscription today? It looks like there are some new features!,upgrade,upgrade,0.7536598171060743,technical,0.09315875558433195,0.6605010615217424,True
+I didn't recognize a charge on my statement. Can you help me with that?,billing,billing,0.9833924537177497,cancellation,0.004432676555193087,0.9789597771625567,True
+I can't get a straight answer from anyone; it's infuriating!,complaint,complaint,0.639129529439899,technical,0.1134632293727798,0.5256663000671191,True
+Can you break down the charges on my latest invoice? It's really confusing.,billing,billing,0.9484172031662689,technical,0.023864075035657243,0.9245531281306116,True
+What are the additional features if I upgrade to the Ultimate package?,upgrade,upgrade,0.9743267934456259,api,0.010335902166594375,0.9639908912790315,True
+"I’m trying to send data to your API, but I can’t figure out the correct format.",api,api,0.923175838507258,technical,0.02517137798043397,0.898004460526824,True
+I'm really annoyed that the app keeps throwing a network error every time I refresh it!,technical,technical,0.9667090378619768,complaint,0.012741674378689578,0.9539673634832873,True
+The search function is not returning any results today; what's going on?,technical,technical,0.9337920000930556,api,0.022453858169989956,0.9113381419230657,True
+"I just tried to export my data, but it keeps failing. Can you help?",technical,technical,0.8046153486265466,api,0.06148446931024137,0.7431308793163053,True
+What happens to my existing features if I upgrade my plan?,upgrade,upgrade,0.9864995606693319,api,0.0034674837193162758,0.9830320769500156,True
+Do I have to pay anything extra if I decide to upgrade my plan mid-cycle?,upgrade,upgrade,0.9826208001634567,complaint,0.00415474067748853,0.9784660594859681,True
+The API documentation is a bit unclear on error handling. Can you provide more info?,api,api,0.9223689100895112,billing,0.023998818106191717,0.8983700919833194,True
+Can I speak to someone about a recent billing error? I need it sorted out ASAP.,billing,billing,0.5668000879256003,technical,0.14102062674664298,0.4257794611789574,True
+Could you provide details on how to integrate with third-party services using your API?,api,api,0.9430764296641866,upgrade,0.017397378022476578,0.92567905164171,True
+I’m feeling overwhelmed trying to figure out how to upgrade my account. Help?,upgrade,upgrade,0.6680702359495898,api,0.08642786272001389,0.5816423732295759,True
+"Honestly, I didn't expect to be this upset over a service issue.",complaint,complaint,0.7655203264812109,billing,0.12223830871522413,0.6432820177659868,True
+Why does my account show a pending refund from last month?,billing,billing,0.8765175075083201,cancellation,0.03686288795900076,0.8396546195493194,True
+I'm feeling lost with the documentation. Can someone provide guidance?,api,api,0.5925927876637205,technical,0.13356317077129368,0.45902961689242683,True
+I noticed an extra charge on my credit card this month. Can you help me with that?,billing,billing,0.9862153732949351,cancellation,0.003537207382134571,0.9826781659128005,True
+"I can't seem to open the app, it just freezes every time.",technical,technical,0.9832274498217458,complaint,0.0056357077687174744,0.9775917420530283,True
+I'm considering downgrading my current subscription. What do I need to do?,upgrade,upgrade,0.9460772057400497,cancellation,0.01797133244146071,0.928105873298589,True
+"I’m happy with my current plan, but what would an upgrade look like for my needs?",upgrade,upgrade,0.91011440942858,billing,0.049838042743676134,0.8602763666849039,True
+It's been weeks since I raised my issue and I still feel in the dark.,complaint,complaint,0.7544827766992174,technical,0.13242420719535827,0.6220585695038591,True
+I'm reaching out to cancel my account; it's not working for me.,cancellation,cancellation,0.9777221056769871,billing,0.007526040018592192,0.970196065658395,True
+My last payment seems to have gone through twice. Can you look into that?,billing,billing,0.9085544803419983,technical,0.03650875436145064,0.8720457259805476,True
+I'd appreciate it if you could help me cancel my account.,cancellation,cancellation,0.9135659308734576,billing,0.03756703783974658,0.875998893033711,True
+I just got billed for a service that's been canceled. Can you explain?,billing,billing,0.8564551238109371,complaint,0.043378351208980204,0.813076772601957,True
+"I expected a lot more from a company with your reputation, but I'm sadly let down.",complaint,complaint,0.8872027151987952,api,0.040118470256805094,0.8470842449419902,True
+It's incredibly frustrating when nobody seems to care about my issue.,complaint,complaint,0.7979847337460518,technical,0.06635753587077742,0.7316271978752744,True
+Is there a trial period for the higher subscription plans before I commit?,upgrade,upgrade,0.8004050272468015,billing,0.07026623428730978,0.7301387929594917,True
+I’m frustrated with my current plan. How do I move to a better one?,upgrade,upgrade,0.9192661132995358,complaint,0.02282765213463162,0.8964384611649041,True
+"Hey, I'm on a monthly plan but I'm considering an annual one. What's the process for that?",upgrade,upgrade,0.7599315182715136,billing,0.13737626247685375,0.6225552557946599,True
+What exactly does your API return for error messages? I'm trying to troubleshoot some issues.,api,api,0.919909967485752,technical,0.02837771726410961,0.8915322502216424,True
+I would like to discuss a recent charge on my account that I don’t recognize.,billing,billing,0.9100114958177424,cancellation,0.04518306439867268,0.8648284314190697,True
+My notifications aren’t coming through. I've checked all my settings.,technical,technical,0.8090265108586859,complaint,0.05235915722732819,0.7566673536313577,True
+This is not the level of service I signed up for. I'm seriously reconsidering my options.,complaint,complaint,0.9140592446636427,billing,0.025094744664553095,0.8889644999990897,True
+"The lack of communication from your side is appalling, I'm really annoyed.",complaint,complaint,0.8784147115831793,technical,0.04643407173148403,0.8319806398516952,True
+I’d like to know if there’s a way to customize the API response format.,api,api,0.9405729478450987,upgrade,0.027807219867812566,0.9127657279772862,True
+This is just unacceptable; I've tried reaching out multiple times with no luck.,complaint,complaint,0.9095350064216543,technical,0.04521844248438116,0.8643165639372732,True
+I’ve heard great things about your Pro plan. What can I do to upgrade?,upgrade,upgrade,0.9471272207948471,complaint,0.02023674482315445,0.9268904759716927,True
+"I'd like to end my subscription, thanks.",cancellation,cancellation,0.9626155707744599,billing,0.013988372463378826,0.9486271983110811,True
+I want to explore the premium features before committing. How do I do that?,upgrade,upgrade,0.9342867389567318,cancellation,0.022370976894844196,0.9119157620618875,True
+Let’s go ahead and terminate my subscription immediately.,cancellation,cancellation,0.8560763990853698,billing,0.04211358370844883,0.813962815376921,True
+I keep getting a 401 error when trying to access the API; what's going on?,api,api,0.9187016396403006,technical,0.07238917255155997,0.8463124670887406,True
+"I need to cancel my service immediately, please.",cancellation,cancellation,0.9888962363313509,billing,0.0032461325732976213,0.9856501037580533,True
+I'm having trouble accessing your API documentation; can someone help me find it?,api,api,0.899814333828635,complaint,0.03380284699739027,0.8660114868312447,True
+I want to change my plan from monthly to yearly. Can you guide me?,upgrade,upgrade,0.9646949221786798,cancellation,0.01610225952370675,0.9485926626549731,True
+What’s the policy on refunds for erroneously charged amounts?,billing,billing,0.7080139327096021,api,0.09485006415904575,0.6131638685505564,True
+My account shows a different price than what I signed up for. Is that normal?,billing,billing,0.6726610724851386,complaint,0.08612571444694504,0.5865353580381936,True
+"The last few times I've contacted support, I've been left in the dark.",complaint,complaint,0.7475625028676625,technical,0.12607537675803202,0.6214871261096304,True
+I don't appreciate being left in the dark; communication is key and it's lacking here.,complaint,complaint,0.7618395952152803,technical,0.1066114962358466,0.6552280989794337,True
+How do I switch my subscription to the yearly plan?,upgrade,upgrade,0.9726281071640445,cancellation,0.013076668874886692,0.9595514382891578,True
+Please terminate my subscription effective immediately.,cancellation,cancellation,0.964365962863196,billing,0.011034622565674678,0.9533313402975213,True
+It's frustrating to see that my emails go unanswered for days.,complaint,complaint,0.36904543899268194,billing,0.3048793394830093,0.06416609950967261,True
+"I can’t afford this anymore, so please cancel my account.",cancellation,cancellation,0.9854390123799994,billing,0.004213756047516127,0.9812252563324833,True
+"I'm thinking of downgrading, but I want to make sure I won’t miss out on important features.",upgrade,upgrade,0.6015162456527295,technical,0.10530613046247413,0.49621011519025543,True
+What features are exclusive to the Enterprise plan that I should know about?,upgrade,upgrade,0.8838673647779041,api,0.03515224443014514,0.848715120347759,True
+I want to cancel my membership; it’s not what I expected.,cancellation,cancellation,0.9809507547270867,billing,0.006692875270598853,0.9742578794564879,True
+"If I downgrade, will I still have access to my previous documents?",upgrade,upgrade,0.6376238463002677,technical,0.10256567320738078,0.535058173092887,True
+"Last month’s bill was way higher than usual, and I don’t understand why.",billing,billing,0.9376248807459087,complaint,0.031805216201841464,0.9058196645440671,True
+Why can’t I see the data I’m expecting when I make a request?,api,api,0.4063947824207474,technical,0.3387519719297733,0.06764281049097409,True
+I want to cancel my plan. It’s just not for me anymore.,cancellation,cancellation,0.9805740824693325,upgrade,0.009147865753212567,0.97142621671612,True
+I keep getting a timeout error when trying to sync my data.,technical,technical,0.7836933919836806,api,0.17358065373891507,0.6101127382447655,True
+How do I know if my API key has expired?,api,api,0.937820926988987,upgrade,0.022988435006923196,0.9148324919820638,True
+I can't get over how unhelpful your team has been. It’s like no one wants to assist me.,complaint,complaint,0.9225814072174969,billing,0.017815804506176283,0.9047656027113207,True
+I want to discontinue my service. Can you take care of that?,cancellation,cancellation,0.8197697262410898,billing,0.07288678473184595,0.7468829415092438,True
+Feels like I'm stuck in a loop with no one listening to me!,complaint,complaint,0.6565422278431098,technical,0.09607701473136487,0.5604652131117449,True
+I want to stop my payments; how do I do that?,cancellation,cancellation,0.7725428612197505,upgrade,0.08416429019696249,0.688378571022788,True
+Can you send me a copy of my latest invoice? I need to review it.,billing,billing,0.9140362525644845,cancellation,0.026430412287985622,0.8876058402764989,True
+I want to stop my subscription from renewing next month.,cancellation,cancellation,0.9748404794894796,upgrade,0.008954111002134632,0.965886368487345,True
+I’m really confused about my latest bill. It looks way higher than usual.,billing,billing,0.8948391519438955,complaint,0.02946429814627675,0.8653748537976188,True
+Why is the website so slow today? It's taking forever to load any page.,technical,technical,0.9257228285425771,complaint,0.023159343069664624,0.9025634854729125,True
+I'm very disappointed with the lack of assistance I've received.,complaint,complaint,0.9305471669995995,technical,0.01945091658519387,0.9110962504144057,True
+Are there specific IP addresses that I need to whitelist for your API calls?,api,api,0.9688452508332939,billing,0.007671241649764412,0.9611740091835295,True
+It's shocking how poor the service has become. I expected so much more.,complaint,complaint,0.7950257244925827,technical,0.061835485219745356,0.7331902392728373,True
+"Every time I attempt to save my changes, it tells me there’s a server error.",technical,technical,0.8462115943310617,api,0.04154218787835798,0.8046694064527038,True
+My invoice doesn’t match what I signed up for. Can you clarify the pricing?,billing,billing,0.9455824775735139,api,0.021345055253854495,0.9242374223196594,True
+It's unacceptable to have to wait this long without communication.,complaint,complaint,0.7990903316727004,technical,0.048411537548298876,0.7506787941244015,True
+"I just updated the app, and now it won't even open.",technical,technical,0.9257425965926187,complaint,0.027131272833100014,0.8986113237595187,True
+What’s the maximum number of requests I can make in a minute? I don’t want to hit any limits.,api,api,0.8595346794824806,upgrade,0.041955623129519816,0.8175790563529608,True
+"This is frustrating, but I need to cancel my subscription. It's not working for me.",cancellation,cancellation,0.9637686529784223,billing,0.011989272695945564,0.9517793802824768,True
+"Thanks for everything, but I need to close my account. How do I do that?",cancellation,cancellation,0.6795918817309543,billing,0.10081026537176953,0.5787816163591848,True
+"I've reached out multiple times, and no one seems to care.",complaint,complaint,0.9585039126404321,technical,0.012699267635449788,0.9458046450049823,True
+Please make sure my account is canceled before the next renewal.,cancellation,cancellation,0.9493974789726729,technical,0.014535548422064344,0.9348619305506085,True
+My account was charged after I downgraded my plan. What happened?,billing,billing,0.7337255750281055,upgrade,0.14037467700271467,0.5933508980253909,True
+What are the different subscription options available? I’m considering upgrading soon.,upgrade,upgrade,0.8323423042931454,api,0.078639983423449,0.7537023208696964,True
+"I’d like to cancel my service, how do I go about that?",cancellation,cancellation,0.9718839566480382,billing,0.013027963314901166,0.958855993333137,True
+I want to upgrade my plan to annual billing. How do I do that?,upgrade,upgrade,0.9853498943050883,cancellation,0.007044204268685931,0.9783056900364024,True
+I just want to confirm how to upgrade from my current subscription level.,upgrade,upgrade,0.9102376056096865,cancellation,0.038344320681600125,0.8718932849280864,True
+I think I need more features; how can I get the Ultimate package?,upgrade,upgrade,0.7090356773123998,api,0.08734973464512126,0.6216859426672785,True
+"I’ve decided I no longer need this subscription, so I’d like to cancel it.",cancellation,cancellation,0.9619721555415743,complaint,0.017877291690745162,0.9440948638508292,True
+I noticed the search function isn’t returning any results since the last update.,technical,technical,0.9657672347419858,api,0.012437118986861543,0.9533301157551243,True
+"The button to submit my feedback is unresponsive, so I can't send it.",technical,technical,0.6849297594961705,complaint,0.09657336920278797,0.5883563902933826,True
+I'm having trouble finding the right endpoint for fetching user data. Could you point me in the right direction?,api,api,0.8653238409620863,technical,0.045718620994429554,0.8196052199676567,True
+Can I adjust my billing date to the end of the month instead of the beginning?,billing,billing,0.4381275368087843,upgrade,0.21565014046288894,0.22247739634589536,True
+Why is the keyboard shortcut for screenshots not working? That's super frustrating!,technical,technical,0.56881211687254,api,0.22810237415458445,0.3407097427179555,True
+I’m thinking about upgrading to the Family plan. What are the benefits?,upgrade,upgrade,0.981493089511665,api,0.007235644271396742,0.9742574452402682,True
+I've decided I don't want to continue with my subscription. Please cancel it.,cancellation,cancellation,0.9915363981989153,billing,0.002598366005622562,0.9889380321932927,True
+I’d like to understand the additional fees on my latest bill. Can you clarify?,billing,billing,0.9753581262964365,upgrade,0.0073179859096269215,0.9680401403868095,True
+What’s the process for disputing a charge? I need to contest something.,billing,billing,0.5417932631414152,upgrade,0.1907811446818584,0.3510121184595568,True
+Can someone explain the different charges on my invoice for this period?,billing,billing,0.9536860232164528,api,0.014442713431642407,0.9392433097848104,True
+Can you help me terminate my subscription?,cancellation,cancellation,0.8135415381310036,billing,0.12076975982908611,0.6927717783019175,True
+Can you explain the charges applied for my last payment?,billing,billing,0.9935004068380354,api,0.0029540370578217986,0.9905463697802136,True
+"I've tried multiple times to authenticate using the API, but I'm getting errors. What could be wrong?",api,api,0.9330414041350609,technical,0.0274684723633567,0.9055729317717042,True
+I need support for a legacy API version; is that still available?,api,api,0.7811546315359352,complaint,0.0755288627648944,0.7056257687710408,True
+Please terminate my service; I won’t be needing it anymore.,cancellation,cancellation,0.941677716942217,technical,0.022338465388753573,0.9193392515534634,True
+I just want to confirm if my payment went through; I don’t want to be late again.,billing,billing,0.6985016744305689,cancellation,0.1618965295033014,0.5366051449272675,True
+I'm confused about the charges on my last invoice. Can you break them down for me?,billing,billing,0.9811837474619406,api,0.006293632095731852,0.9748901153662087,True
+I want to opt-out of my plan and stop any future charges.,cancellation,cancellation,0.8059354094169053,upgrade,0.07836653719864389,0.7275688722182614,True
+Can anyone explain how to handle rate limit errors gracefully?,api,api,0.8890731963739849,complaint,0.035847239008280796,0.8532259573657041,True
+"I'm done with this; cancel my subscription today, please.",cancellation,cancellation,0.9817228892770495,billing,0.006550936098739686,0.9751719531783098,True
+I need to cancel my plan. I'm not happy with it.,cancellation,cancellation,0.9465973882113713,upgrade,0.02901246747019039,0.9175849207411809,True
+I need clarification on a charge that appeared on my account. What is it for?,billing,billing,0.9079924004209613,api,0.029331657104345505,0.8786607433166158,True
+I’m really frustrated because my bill has increased again without notice. Can you tell me why?,billing,billing,0.8764298985950943,api,0.03140640485865145,0.8450234937364429,True
+"I want to downgrade my subscription, but I'm not sure how to do it. Can you guide me?",upgrade,upgrade,0.8355181391357007,cancellation,0.09311674834550401,0.7424013907901967,True
+"There’s a weird glitch where my profile picture won’t update, no matter what I do.",technical,technical,0.7796489272795676,api,0.06411490874281726,0.7155340185367504,True
+What libraries do you recommend for working with your API in Python?,api,api,0.9207276193545235,complaint,0.024127292220404255,0.8966003271341193,True
+Can I get a refund if I decide to upgrade my subscription within the trial period?,upgrade,upgrade,0.9443222968434761,billing,0.029127492644351768,0.9151948041991244,True
+Is there a way to cancel my subscription immediately? I'm not happy with it.,cancellation,cancellation,0.8968001541764672,billing,0.03010718651949209,0.8666929676569751,True
+"I was really hoping for better support, but this is unacceptable.",complaint,complaint,0.9464434645296325,billing,0.02466542330049363,0.9217780412291389,True
+"I’m receiving a 'permission denied' message, and I haven’t changed anything.",technical,technical,0.46239183483322327,complaint,0.17916141318285675,0.2832304216503665,True
+I find it hard to believe that no one can help me after all this time.,complaint,complaint,0.7627554259966175,billing,0.07668767895761076,0.6860677470390067,True
+I've had such a terrible experience that I'm considering switching services.,complaint,complaint,0.8112371250055332,technical,0.05059821737413274,0.7606389076314005,True
+"I want to cancel my subscription, but I still see a charge. Can you assist me with that?",billing,cancellation,0.6666380190866087,billing,0.29695654873148447,0.3696814703551242,False
+What are the extra features I'll get if I choose the Business plan?,upgrade,upgrade,0.9026896575836518,api,0.0342937970812103,0.8683958605024416,True
+The service I received was below any reasonable standard. I'm quite upset.,complaint,complaint,0.5780927404336679,billing,0.14520456122194986,0.432888179211718,True
+I need you to terminate my account; I'm no longer using it.,cancellation,cancellation,0.8517268690044362,api,0.03549076331983419,0.816236105684602,True
+I'd like to switch to an annual subscription. How do I do that?,upgrade,upgrade,0.9323414180975007,cancellation,0.026236176950593982,0.9061052411469067,True
+Could you let me know what premium features I’d get if I upgraded to the Ultimate plan?,upgrade,upgrade,0.9420347859987505,billing,0.014748546497489495,0.927286239501261,True
+Can you help me figure out why my API request is returning 403 errors?,api,api,0.8460266605239952,billing,0.08239120467173304,0.7636354558522622,True
+Is there a way to check how many API calls I've made this month?,api,api,0.7979086774007306,billing,0.09024041723589495,0.7076682601648356,True
+Can you help me understand why I received a partial refund instead of a full one?,billing,billing,0.8180965410914178,api,0.057669589127485106,0.7604269519639327,True
+Could you tell me how my features will change if I upgrade?,upgrade,upgrade,0.9312132944069436,billing,0.03031773850242286,0.9008955559045208,True
+I’m trying to figure out if my plan covers everything I need without extra charges.,billing,upgrade,0.367979177739835,billing,0.3407520101220265,0.027227167617808523,False
+I expected a lot more from your customer service; I've been very patient.,complaint,complaint,0.9769607935327131,billing,0.005476666271480008,0.9714841272612331,True
+"I set up the webhook correctly, but I'm not seeing any events trigger. Any ideas?",api,api,0.9091675060901,technical,0.03974817463932895,0.869419331450771,True
+I have decided to cancel and don’t need any further assistance.,cancellation,cancellation,0.7315901407922704,complaint,0.0823782207014443,0.6492119200908261,True
+The app won’t load any of my saved files.,technical,technical,0.9663944459733487,upgrade,0.007781070511438383,0.9586133754619103,True
+"I read something about a new version of the API—what's changed, and how will it affect my application?",api,api,0.7660765087710927,upgrade,0.058655802284152334,0.7074207064869403,True
+I’m extremely unhappy with what I’ve experienced so far.,complaint,complaint,0.7394805566277595,api,0.07246104114555808,0.6670195154822014,True
+"I feel completely ignored, and it's really disappointing.",complaint,complaint,0.9566035026407098,technical,0.023947026671767287,0.9326564759689425,True
+Is there a way to get detailed logs of my API usage?,api,api,0.9044775192622994,billing,0.043268513187611636,0.8612090060746878,True
+"I need to dispute a charge on my invoice, how do I start that process?",billing,billing,0.9657402111924243,api,0.011037584058307095,0.9547026271341171,True
+Can I upgrade my plan mid-cycle without any penalties?,upgrade,upgrade,0.9521126330248183,technical,0.011063695296686878,0.9410489377281315,True
+This is my formal request to cancel my subscription effective immediately.,cancellation,cancellation,0.966678562751986,billing,0.010269282689832905,0.9564092800621531,True
+Please process my cancellation request; I won't be using the service anymore.,cancellation,cancellation,0.9273130200928814,technical,0.02688264173007442,0.900430378362807,True
+It’s unacceptable to be left hanging like this; I need real help.,complaint,complaint,0.7193465459086058,technical,0.07705448297636582,0.64229206293224,True
+"I noticed an extra charge on my account this month, can you help me sort it out?",billing,billing,0.9722004384089102,cancellation,0.011655838470271811,0.9605445999386384,True
+I want to switch my plan to the Family option; what do I need to do?,upgrade,upgrade,0.9781596350057687,cancellation,0.011270580844627716,0.966889054161141,True
+Could you help me understand the charges on my latest invoice?,billing,billing,0.9853194863537558,api,0.00452482678419558,0.9807946595695601,True
+What’s the difference between the Standard and Pro plans? I want to upgrade!,upgrade,upgrade,0.9725222414117973,api,0.011097302980708984,0.9614249384310883,True
+"I’m unable to continue with my subscription, so I need to cancel it.",cancellation,cancellation,0.9640298034472226,billing,0.009231012493425457,0.954798790953797,True
+My bank statement shows a different amount than what I was charged. Please help!,billing,billing,0.7735839617030601,complaint,0.05993941934952507,0.713644542353535,True
+I keep getting transferred and no one can help me; this is ridiculous.,complaint,complaint,0.8116804213939737,technical,0.0802696122185407,0.731410809175433,True
+I've been charged for a service I thought was free. Could you clarify that?,billing,billing,0.9160569464083597,complaint,0.04513961824144955,0.8709173281669101,True
+I'm very disappointed that no one has taken my issue seriously.,complaint,complaint,0.9119779174961387,technical,0.02467124890633688,0.8873066685898018,True
+Please ensure that I’m not billed again after this month.,cancellation,billing,0.35643215784598004,cancellation,0.33610050067454234,0.0203316571714377,False
+I tried to cancel my subscription but still got billed. Can you assist me with this?,billing,cancellation,0.5295698617350209,billing,0.41557702123385565,0.1139928405011652,False
+"I’m no longer interested in this service, so I’d like to cancel my account.",cancellation,cancellation,0.993426819790279,complaint,0.0024096407998669706,0.9910171789904121,True
+You have to do better than this; it's unacceptable for customers.,complaint,complaint,0.7402507443072309,billing,0.09069742046656915,0.6495533238406618,True
+Can you guide me through the cancellation process? I don't want to continue.,cancellation,cancellation,0.7389342522954042,upgrade,0.1197343208512382,0.6191999314441661,True
+Can someone help me debug this API call? It's not returning the expected results.,api,api,0.6068178954605215,complaint,0.1335007776264366,0.4733171178340848,True
+"I've been patient, but this is really testing my limits.",complaint,complaint,0.8626593193507649,technical,0.04366321253281799,0.8189961068179469,True
+Can you clarify why the feature we discussed isn't available yet?,technical,technical,0.5641221745579512,billing,0.21754969915791983,0.3465724754000314,True
+I feel like I’m talking to a wall; no one is listening to my issues.,complaint,complaint,0.9097170124622759,upgrade,0.020048270962521847,0.8896687414997541,True
+I’ve decided to cancel my subscription. It’s just not working for me.,cancellation,cancellation,0.9908809060500515,technical,0.0029436798242083286,0.9879372262258432,True
+"Every time I click on a link, it takes forever to load; what's going on?",technical,technical,0.8597796926961574,complaint,0.05102224565627689,0.8087574470398805,True
+I'm confused about the authentication methods available. Can you summarize them?,api,api,0.7367387765899924,billing,0.11014581737954617,0.6265929592104462,True
+How do I include custom headers in my API requests?,api,api,0.9838043808004072,upgrade,0.004979441094679656,0.9788249397057276,True
+I’m really unhappy with how my issue has been handled—or not handled.,complaint,complaint,0.942001208612192,technical,0.013374511435966548,0.9286266971762255,True
+"Can I have my account canceled, please? It's no longer needed.",cancellation,cancellation,0.761739050066945,billing,0.07451125678428838,0.6872277932826566,True
+This is absurd; I thought customer satisfaction was a priority for your company.,complaint,complaint,0.9378108216923996,billing,0.027558125720121472,0.9102526959722781,True
+"I need clarification on my last invoice, as there are charges I don't recognize.",billing,billing,0.9757045451963808,api,0.00806719915688441,0.9676373460394965,True
+Can you help me find the correct endpoint for user data?,api,api,0.8736669809003155,billing,0.04603674274808296,0.8276302381522325,True
+"This isn't for me anymore, so please close my account.",cancellation,cancellation,0.948904218450209,technical,0.014535538691470704,0.9343686797587383,True
+Why is it so hard to get assistance? It’s like talking to a wall.,complaint,complaint,0.9315431146010575,technical,0.023679337855683484,0.9078637767453741,True
+"I really thought your company valued its customers, but I'm not feeling that right now.",complaint,complaint,0.844265555912951,technical,0.043978088458919457,0.8002874674540316,True
+"I was hoping for a smooth experience, but this has been anything but that.",complaint,complaint,0.8486511202641707,billing,0.07996377133606188,0.7686873489281087,True
+I’ve been considering moving to a premium plan; what extra features would I get?,upgrade,upgrade,0.8472098724089552,complaint,0.07851909898734946,0.7686907734216057,True
+Why is it so difficult to get answers from your support team? This is frustrating!,complaint,complaint,0.9865304520036718,technical,0.00404219888251285,0.982488253121159,True
+I truly didn't expect such poor service from your team; what happened?,complaint,complaint,0.8832862608708113,billing,0.04976027869536623,0.833525982175445,True
+Can someone please explain why no one is responding? It's so aggravating.,complaint,complaint,0.770629252242811,technical,0.09869926407335651,0.6719299881694545,True
+I’m frustrated and want to cancel my account now.,cancellation,cancellation,0.9950495374807989,billing,0.0017760365925313718,0.9932735008882676,True
+I can't figure out how to access the reports; it's just not working.,technical,technical,0.641195597633474,api,0.19097129188963397,0.45022430574384004,True
+I'm getting weird formatting issues when I try to print my documents.,technical,technical,0.8580245944016496,api,0.04914515902554975,0.8088794353760999,True
+This is honestly the least responsive customer service I've ever encountered.,complaint,complaint,0.9240579663755769,technical,0.03249909745823842,0.8915588689173385,True
+"I really thought I was going to get better service, but this is just awful.",complaint,complaint,0.958282493038912,billing,0.01916513220367561,0.9391173608352363,True
+Can you clarify if there are any geographical restrictions on API access?,api,api,0.7662188216044219,billing,0.1327548219932668,0.6334639996111551,True
+I can’t keep paying for this. I need to cancel my account.,cancellation,cancellation,0.9190799148899634,billing,0.040163383794326234,0.8789165310956372,True
+The last few interactions I've had with your support were really unpleasant.,complaint,complaint,0.9131875059062018,technical,0.02930160776553367,0.8838858981406681,True
+I keep getting a 'Connection Timed Out' message even with a strong internet connection.,technical,technical,0.7713851922477049,complaint,0.08087726181987147,0.6905079304278334,True
+The API response times seem slow lately. Is there an ongoing issue?,api,api,0.8678577812564222,technical,0.07802878075564663,0.7898290005007755,True
+Why am I getting a 401 error when trying to access the endpoint?,api,api,0.8814191522237422,technical,0.08768170266451615,0.7937374495592261,True
+"I thought I was losing my mind, but the notifications don't seem to work at all. I get nothing!",technical,technical,0.7813855823714996,complaint,0.10959134346196973,0.6717942389095298,True
+"I don't know what's going on, but the app is way slower than usual.",technical,technical,0.7550486359575165,billing,0.11264473524774817,0.6424039007097683,True
+I was under the impression that my last payment covered the full service. Why am I seeing a balance due?,billing,billing,0.9140166288955437,technical,0.027863684417474343,0.8861529444780694,True
+I need help! The app just completely shut down while I was working.,technical,technical,0.8567622643601736,complaint,0.047450698318775984,0.8093115660413975,True
+Can I switch from the Basic to the Plus plan without any fees?,upgrade,upgrade,0.928132487990334,technical,0.025788377864846182,0.9023441101254878,True
+Is there any way to dispute a charge if I'm not satisfied with the service?,billing,billing,0.36365038960070484,api,0.23348160435930548,0.13016878524139935,True
+This is not the customer experience I was promised; I feel misled.,complaint,complaint,0.9549435758956158,technical,0.018477427917867082,0.9364661479777487,True
+This is my request to terminate my account with you.,cancellation,cancellation,0.8726728522389218,complaint,0.041743389610519314,0.8309294626284025,True
+"I'm trying to set up a webhook, but I can't find any documentation on how to do it. Can you point me in the right direction?",api,api,0.9548043048089647,upgrade,0.017445117388579096,0.9373591874203856,True
+"I don't want this service anymore, so please cancel it.",cancellation,cancellation,0.9716014696847177,complaint,0.017099025718066763,0.954502443966651,True
+Just want to let you know I’m canceling my subscription.,cancellation,cancellation,0.916797188893451,billing,0.026038036990060874,0.8907591519033901,True
+Why does the app freeze whenever I try to open my profile? It's super annoying.,technical,technical,0.9833248213678354,api,0.0053005877411203646,0.978024233626715,True
+Is there a way to increase the API rate limit for my account?,api,api,0.9899659218125314,billing,0.005323804534518448,0.984642117278013,True
+Is anyone else having issues with the latest update? My screen keeps going blank.,technical,technical,0.9434334079710958,api,0.02141945703526534,0.9220139509358304,True
+Do you have any best practices for optimizing API requests?,api,api,0.9484779667003504,billing,0.014027925628793299,0.9344500410715572,True
+I've never felt this neglected by a company before. This is very disappointing.,complaint,complaint,0.9408438059733258,technical,0.019163357476110664,0.9216804484972152,True
+Is it possible to go from the Basic to the Pro membership?,upgrade,upgrade,0.8228787191397888,api,0.058522581632980346,0.7643561375068085,True
+My invoice has a charge I don’t recognize. Can you explain it?,billing,billing,0.9495416086587478,complaint,0.013184591416292307,0.9363570172424555,True
+I keep getting a timeout error while trying to sync my data.,technical,technical,0.7921071851076353,api,0.14292668383377,0.6491805012738654,True
+I’m seriously considering switching to another company at this rate.,complaint,complaint,0.6901123856257982,upgrade,0.08391480179976085,0.6061975838260374,True
+How do I properly format my requests to get the correct data?,api,api,0.7505425906760682,technical,0.06864338855304604,0.6818992021230221,True
+It's time to say goodbye; please cancel my account.,cancellation,cancellation,0.9593891218478122,technical,0.013170414945829111,0.9462187069019831,True
+The loading times have been excruciatingly slow for the past few days.,technical,technical,0.6510239262899439,complaint,0.10327619013981644,0.5477477361501274,True
+"I’ve been logging in multiple times, but it keeps kicking me out after a minute.",technical,technical,0.5866189535555838,complaint,0.27975456796056297,0.3068643855950208,True
+What are the benefits of the Premium plan compared to the Basic one?,upgrade,upgrade,0.947993872090037,api,0.02172178765847029,0.9262720844315667,True
+"I thought I was going to get help, but it turned into a complete waste of time.",complaint,complaint,0.7027162769000411,billing,0.12469824393040192,0.5780180329696392,True
+The document I exported is corrupted. I can't open it on any program.,technical,technical,0.6253285066556099,api,0.13571117744850755,0.4896173292071023,True
+I'm not sure how to integrate your SDK into my existing app. Any pointers?,api,api,0.7456829398993483,technical,0.06591469480579974,0.6797682450935486,True
+I can't believe how long it's taken to get a simple response; this is ridiculous.,complaint,complaint,0.9616913081709026,api,0.010380420853239862,0.9513108873176628,True
+"I'd like to cancel my subscription, could you assist me with that?",cancellation,cancellation,0.9863629434050972,billing,0.009276285767868354,0.9770866576372289,True
+Could you please help me cancel my subscription? I appreciate it.,cancellation,cancellation,0.9836111119405289,billing,0.009059634153811252,0.9745514777867176,True
+I’m not happy with my current plan. What’s involved in switching?,upgrade,upgrade,0.8317230449010058,api,0.03839706274457702,0.7933259821564288,True
+"I want to make sure I won’t be charged again next month, so please cancel my account.",cancellation,cancellation,0.9952575620630372,billing,0.002710163725837729,0.9925473983371994,True
+How can I troubleshoot issues with API authentication?,api,api,0.9531861073070205,complaint,0.012753408232919134,0.9404326990741013,True
+I'm having issues getting my webhook to retry after a failure. How does that work?,api,api,0.7261039109311518,technical,0.1220446661003837,0.6040592448307681,True
+How do I set up OAuth 2.0 for my application using your API?,api,api,0.9931229178542782,billing,0.0022738039536660086,0.9908491139006121,True
+"I want to move to a different plan, but I'm not sure which one fits my needs.",upgrade,upgrade,0.8200270786551053,billing,0.050514885619258626,0.7695121930358466,True
+Can I downgrade my subscription without losing access to my past data?,upgrade,upgrade,0.7937502536229635,billing,0.07863740939846676,0.7151128442244967,True
+Why did my pricing go up? I thought I was locked in at a lower rate.,billing,billing,0.7713402545259253,complaint,0.0732793519713239,0.6980609025546014,True
+I’m receiving a blank page error when I try to generate reports.,technical,technical,0.9475724855929307,api,0.026967273452259424,0.9206052121406713,True
+I request the cancellation of my subscription immediately.,cancellation,cancellation,0.9364813771463781,billing,0.01754760961282197,0.9189337675335562,True
+Can I get a refund if I decide to downgrade my plan?,upgrade,upgrade,0.9814835690565041,billing,0.010097863384165169,0.971385705672339,True
+I'm curious about what premium features are available. How can I find that out?,upgrade,upgrade,0.7394735383745067,api,0.11212173475220404,0.6273518036223027,True
+When can I expect a refund for the overcharge applied to my account last week?,billing,billing,0.8384999739113647,technical,0.04595067768267057,0.7925492962286941,True
+How do I go about switching from my current plan to a different one?,upgrade,upgrade,0.9251973340819718,cancellation,0.021996389579809976,0.9032009445021618,True
+I think I was charged for a subscription that I cancelled. Can you check that for me?,billing,billing,0.9549596984329357,cancellation,0.014686170456759571,0.9402735279761761,True
+I need to know if I can easily downgrade my subscription if I don't like the new plan.,upgrade,upgrade,0.9273934102979198,billing,0.029012635185055407,0.8983807751128644,True
+What are the steps to upgrade to the Ultimate plan? I'm really interested!,upgrade,upgrade,0.9796460395831795,api,0.0077536784489771445,0.9718923611342024,True
+This is so disappointing; I've come to expect better from you.,complaint,complaint,0.930761155564762,technical,0.015858598670988933,0.9149025568937731,True
+Why does the video player keep buffering? It's really annoying.,technical,technical,0.939603836369148,api,0.022119581066521884,0.9174842553026261,True
+I received a bill for services I didn't use this month. How can I address this?,billing,billing,0.8736977248045519,complaint,0.0456788133928101,0.8280189114117418,True
+"I thought I could count on you, but this has been a huge letdown.",complaint,complaint,0.8091546748665971,billing,0.07366550955647685,0.7354891653101202,True
+I can’t seem to access the new features you rolled out; they’re not appearing on my app.,technical,technical,0.7853721601246766,api,0.08264164767669088,0.7027305124479857,True
+I just want to ensure I’m getting the best value. What should I consider before upgrading?,upgrade,upgrade,0.4922836976490561,api,0.21211792664361245,0.28016577100544365,True
+I'd appreciate it if you could cancel my account now.,cancellation,cancellation,0.9150256964770854,billing,0.032780586671789166,0.8822451098052962,True
+What kind of customer service is this? I'm very unhappy right now.,complaint,complaint,0.8859937670054112,api,0.027659428982334384,0.8583343380230768,True
+"I was supposed to be on a promotional rate, but my latest invoice doesn't reflect that.",billing,billing,0.8617783331781692,api,0.04425661326781874,0.8175217199103505,True
+How can I learn about the premium features before I make an upgrade?,upgrade,upgrade,0.9944049273006361,api,0.002025621477262047,0.9923793058233741,True
+I can’t seem to delete any of my old messages; nothing happens when I click 'delete'.,technical,technical,0.7747337217083753,api,0.06501422918526166,0.7097194925231136,True
+Can you help me with the details of downgrading my plan?,upgrade,upgrade,0.8557106222158622,billing,0.04986428809458528,0.8058463341212769,True
+Can I get an itemized receipt for my last payment? I need it for my records.,billing,billing,0.9499935494696015,api,0.015208730504955269,0.9347848189646462,True
+I want to upgrade but I'm worried about the costs. Can you clarify?,upgrade,upgrade,0.8599448357452202,billing,0.07522394709095773,0.7847208886542625,True
+I've decided to cancel my plan—it just isn't right for me.,cancellation,cancellation,0.9089840748330517,technical,0.028947014187598943,0.8800370606454527,True
+I'm having trouble accessing the help section; nothing loads on that page.,technical,technical,0.800861719074135,api,0.07849074951730238,0.7223709695568326,True
+What happens to my data if I decide to downgrade my plan?,upgrade,upgrade,0.9817182328479072,technical,0.00517937729085379,0.9765388555570533,True
+The font is displaying weirdly on the app since the last update.,technical,technical,0.9446357481801374,api,0.019352209929722006,0.9252835382504154,True
+"Can I upgrade my plan in the middle of my billing cycle, or do I have to wait?",upgrade,upgrade,0.9311142881160657,billing,0.029270133764132556,0.9018441543519331,True
+I’ve decided to cancel my membership; please take care of that.,cancellation,cancellation,0.9838044456593567,complaint,0.005641102834000215,0.9781633428253564,True
+"The import feature fails every time I attempt to use it, very frustrating.",technical,technical,0.8680198696626219,complaint,0.06558104372240671,0.8024388259402152,True
+Please go ahead and cancel my account. Thanks.,cancellation,cancellation,0.9802322945888545,billing,0.0060151402859644895,0.97421715430289,True
+"My subscription isn't worth it to me now, so please cancel it.",cancellation,cancellation,0.9505399097749104,technical,0.016155121884749834,0.9343847878901606,True
+I’m ready to switch to the Pro plan. What do I need to know?,upgrade,upgrade,0.9915288347361471,api,0.003622629704427357,0.9879062050317197,True
+I'm interested in switching to a yearly subscription. What do I need to do?,upgrade,upgrade,0.8550145443087538,cancellation,0.05837490417204175,0.7966396401367121,True
+I want to confirm that my last payment was processed correctly. Everything looks off.,billing,billing,0.8550764155974749,cancellation,0.064890857970748,0.7901855576267269,True
+Why am I getting a CORS error when trying to access the API from my frontend?,api,api,0.9284242775155368,technical,0.048854703884416206,0.8795695736311206,True
+I'm trying to implement a webhook for payment notifications. Where do I start?,api,api,0.7461248043820156,billing,0.10282440676595161,0.643300397616064,True
+It seems like the app is not sending notifications at all. I'm missing important alerts!,technical,technical,0.9440792105462854,complaint,0.029199648959822494,0.9148795615864629,True
+Can someone help me with the layout? It looks completely messed up on my browser.,technical,technical,0.5737187373651581,billing,0.1843400208178323,0.3893787165473258,True
+"If I upgrade, will I be able to access premium features right away?",upgrade,upgrade,0.8988206186005797,technical,0.032835763008711466,0.8659848555918682,True
+I'm running into a weird bug where the text is missing from my dashboard.,technical,technical,0.9029083457570373,api,0.03558280695689292,0.8673255388001444,True
+What happens if I miss a payment? I want to avoid any penalties.,billing,upgrade,0.37400907189203286,billing,0.2871557825919896,0.08685328930004327,False
+Please process my account cancellation today.,cancellation,cancellation,0.9658360206156988,technical,0.013625714381419029,0.9522103062342798,True
+Please proceed with canceling my subscription.,cancellation,cancellation,0.9569292994750721,billing,0.012009262629875832,0.9449200368451963,True
+It's disheartening to see such poor customer care.,complaint,complaint,0.7903706163134457,technical,0.06427245350604346,0.7260981628074022,True
+I've had a negative experience at every interaction I've had with your support.,complaint,complaint,0.9779926568025422,technical,0.006316232049238666,0.9716764247533035,True
+I'm trying to understand the invoice format better. Can you explain some of the terms used?,billing,billing,0.5484066914347101,api,0.19469096450866402,0.3537157269260461,True
+I need help debugging an issue with the SDK. My app is crashing on initialization.,api,api,0.41402794285354794,technical,0.39675074179016456,0.017277201063383374,True
+Quick question—how do I switch to a different plan?,upgrade,upgrade,0.9005332217776911,api,0.03912504006477147,0.8614081817129197,True
+The download link is broken; it doesn’t work no matter how many times I click it.,technical,technical,0.8620591023085097,complaint,0.06067556577913954,0.8013835365293701,True
+"Can I upgrade my account right now, or do I need to wait until my billing cycle ends?",upgrade,upgrade,0.8023360752351427,billing,0.08076537600449873,0.721570699230644,True
+"I've never felt so unvalued as a customer, and it’s really disheartening.",complaint,complaint,0.8989815342355654,technical,0.047576294940053006,0.8514052392955124,True
+"I’m done with this, so please cancel my membership right now.",cancellation,cancellation,0.971019243828862,complaint,0.012324655200196124,0.9586945886286659,True
+How can I refresh my API key after it expires?,api,api,0.953129047236682,technical,0.01114658275627081,0.9419824644804112,True
+I just want to end my service. Can you do that for me?,cancellation,cancellation,0.9092031202684934,billing,0.04797610940767014,0.8612270108608232,True
+The service I received was not just bad; it was abysmal.,complaint,complaint,0.6524991001281905,billing,0.14836290477197756,0.5041361953562129,True
+Your support should be better; I'm incredibly dissatisfied with my experience.,complaint,complaint,0.8941994279886277,api,0.04097036605484664,0.8532290619337811,True
+"I tried to update my profile picture, but it keeps failing to upload.",technical,technical,0.9162753684175934,billing,0.02733003044191877,0.8889453379756747,True
+"Every time I try to submit a form, I get an error message.",technical,technical,0.9630612363949702,complaint,0.01419335604894576,0.9488678803460244,True
+I can't find my receipt for my last payment. Can you send it to me?,billing,billing,0.946958949734527,api,0.018120652038271456,0.9288382976962555,True
+Can you tell me why my credit card was charged in a different currency?,billing,billing,0.951271680372913,api,0.017258158523413857,0.9340135218494992,True
+The chat feature is not responding; I can't send any messages.,technical,technical,0.9193723186997707,api,0.02848207799800386,0.8908902407017668,True
+How much do I owe you by the end of this month?,billing,billing,0.2533826231345062,cancellation,0.23413107861639063,0.019251544518115588,True
+I would like to understand the charges on my recent invoice better. It's confusing!,billing,billing,0.9600639507383423,technical,0.011940333113265427,0.9481236176250768,True
+What happens to my current features if I switch to a lower plan?,upgrade,upgrade,0.9651175324818767,billing,0.012760032263944477,0.9523575002179322,True
+Is there a difference in support if I upgrade my plan?,upgrade,upgrade,0.9838983027133765,api,0.006510209972142544,0.977388092741234,True
+Can someone explain why my settings keep resetting? It’s driving me mad!,technical,technical,0.5079364757124015,billing,0.23410309647205232,0.27383337924034923,True
+What happens to my existing data if I decide to upgrade?,upgrade,upgrade,0.927742276459621,api,0.030661202108249165,0.8970810743513719,True
+Can you clarify how the taxes are calculated on my invoice?,billing,billing,0.8228965860832108,api,0.08723531650606543,0.7356612695771454,True
+The search function isn’t working at all. I can’t find anything!,technical,technical,0.9540844761412365,api,0.019340920433461296,0.9347435557077752,True
+I’m curious about the new features in the Pro plan. Can you give me a rundown?,upgrade,upgrade,0.9209145539071855,technical,0.024015590968388796,0.8968989629387967,True
+You need to improve your service. It’s not meeting even basic expectations.,complaint,complaint,0.6646983504488605,api,0.10050535187414197,0.5641929985747185,True
+I'm considering moving from the Standard to the Pro plan. What should I do?,upgrade,upgrade,0.9287527209359281,api,0.03887574349133899,0.8898769774445892,True
+Why do I see a recurring charge that I didn't authorize? This is frustrating.,billing,billing,0.8442025248337143,complaint,0.08977656701293278,0.7544259578207815,True
+I need to upgrade my account ASAP. Who do I contact?,upgrade,upgrade,0.7778891813540313,cancellation,0.10559198649283814,0.6722971948611931,True
+Can I upgrade my plan in the middle of my billing cycle?,upgrade,upgrade,0.9077366318352609,billing,0.05175091033001903,0.8559857215052419,True
+What happens to my current plan if I decide to upgrade now?,upgrade,upgrade,0.9936207180899786,api,0.001595817685718292,0.9920249004042604,True
+"Whenever I try to connect to my account, I receive an error message.",technical,technical,0.8765360884981321,cancellation,0.03838159706754991,0.8381544914305822,True
+I wish to terminate my subscription today. Please assist me.,cancellation,cancellation,0.9464274524379563,billing,0.01564170846348029,0.930785743974476,True
+Can you help me troubleshoot an issue where my API calls return null data?,api,api,0.9254030101101532,billing,0.023263470681151477,0.9021395394290017,True
+Is it possible to switch my plan from monthly to yearly without losing my current features?,upgrade,upgrade,0.9937136623831218,complaint,0.001799152014861338,0.9919145103682604,True
+I’d like to cancel my account. Thank you for your help!,cancellation,cancellation,0.9721931977200287,billing,0.010651375516383633,0.961541822203645,True
+I'm interested in switching to the annual subscription. What do I need to do?,upgrade,upgrade,0.927311986562772,cancellation,0.026202567830349195,0.9011094187324228,True
+How does error handling work in your API? What response codes should I expect?,api,api,0.9312067934995496,complaint,0.025324145344694154,0.9058826481548554,True
+Your lack of communication is driving me up the wall.,complaint,complaint,0.8207695895098115,technical,0.06837780225778411,0.7523917872520274,True
+I accidentally signed up for the wrong plan. Can you help me switch?,upgrade,upgrade,0.4653308845186951,billing,0.31536830064134475,0.14996258387735034,True
+"I thought upgrading was supposed to be straightforward, but I'm confused. Can you guide me?",upgrade,billing,0.40813138846717467,upgrade,0.2414379338776956,0.16669345458947907,False
+I’ve decided it’s best for me to end my subscription.,cancellation,cancellation,0.8881098273128823,billing,0.03161304453447659,0.8564967827784058,True
+What extra features can I access if I upgrade to the Gold tier?,upgrade,upgrade,0.9784212298496718,technical,0.00901282363299436,0.9694084062166775,True
+Is there a specific way to handle errors returned by the API?,api,api,0.9682084081227893,upgrade,0.008791601212387524,0.9594168069104018,True
+"My subscription was supposed to be $10 a month, but I was billed $15. What happened?",billing,billing,0.8655744950479155,complaint,0.03186704630762835,0.8337074487402871,True
+Is there a way to test the API calls without affecting my live data?,api,api,0.9693273716085501,technical,0.010254954341413871,0.9590724172671362,True
+I thought your company valued its customers. This experience says otherwise.,complaint,complaint,0.9082861934074475,technical,0.028279557957914894,0.8800066354495326,True
+I want to know if I can switch back to my old plan after upgrading—what should I know?,upgrade,upgrade,0.8963631076034452,billing,0.04825188355137607,0.8481112240520691,True
+"Hey, the data sync feature is just stuck on 'loading'. What’s going on?",technical,technical,0.9049827911354542,api,0.03787560619987918,0.867107184935575,True
+I want to cancel my plan. It’s just not working for me.,cancellation,cancellation,0.9773740629292659,upgrade,0.009468186754312265,0.9679058761749536,True
+"I'm unable to access some features after the last update, can you help?",technical,technical,0.6153463813743025,upgrade,0.13948730814857405,0.4758590732257285,True
+"I've been overcharged for two months in a row, and I need this fixed ASAP.",billing,billing,0.5201965308253947,complaint,0.21799461124792077,0.302201919577474,True
+I'm really disappointed with the service I've been receiving lately.,complaint,complaint,0.9060366853237349,technical,0.0377612577915074,0.8682754275322275,True
+I’m thinking about upgrading to the highest tier. What’s the process?,upgrade,upgrade,0.9665272903116223,api,0.01082858446037977,0.9556987058512425,True
+I feel like my concerns are falling on deaf ears. It's quite disappointing.,complaint,complaint,0.8611929325434454,technical,0.041814764590709916,0.8193781679527355,True
+Is there a reason why the app crashes every time I scroll?,technical,technical,0.9745074335728875,api,0.009110455924183426,0.965396977648704,True
+"I don't know what's going on, but my notifications aren't showing up!",technical,technical,0.7899605194783303,billing,0.11338871604799332,0.6765718034303371,True
+Can you provide details on how to resolve a billing issue with my account?,billing,billing,0.629345687951595,upgrade,0.13699467914566596,0.49235100880592897,True
+I'm done with this service; please cancel my account.,cancellation,cancellation,0.997567751079218,complaint,0.0009519632418356368,0.9966157878373824,True
+What happens if I exceed the rate limits? Will my requests be blocked?,api,api,0.8799448077842031,upgrade,0.04193405484505075,0.8380107529391524,True
+Could you clarify how to implement the SDK in my project?,api,api,0.8981379725120182,billing,0.03501414074805113,0.8631238317639671,True
+Could you explain the advanced features available with the Enterprise plan?,upgrade,upgrade,0.9216328020282191,api,0.030479483614528145,0.8911533184136909,True
+My subscription needs to be canceled. Please take care of that.,cancellation,cancellation,0.867616522792744,billing,0.04308651331242044,0.8245300094803236,True
+Can you explain the recent charges on my account? They seem higher than usual.,billing,billing,0.9436721288564518,technical,0.0190442601972805,0.9246278686591713,True
+Is there a way to test webhooks locally before going live?,api,api,0.8402358855117934,upgrade,0.04298988837065953,0.7972459971411339,True
+"I was supposed to get a promotional rate, but my bill doesn’t reflect that. What happened?",billing,billing,0.842176908376739,complaint,0.054276327526431266,0.7879005808503077,True
+So disappointed; the app shuts down every time I try to generate a report.,technical,technical,0.9610887532278851,complaint,0.019168185498611094,0.941920567729274,True
+Can you explain how the annual plan upgrade works? I'm considering it.,upgrade,upgrade,0.9269537486618634,api,0.027578154360939057,0.8993755943009244,True
+I think I've been overcharged for my last purchase. Can you help me sort this out?,billing,billing,0.9139071700123239,complaint,0.03253353913367132,0.8813736308786526,True
+What are the steps to upgrade my account smoothly?,upgrade,upgrade,0.9490074199069513,api,0.016717313726076433,0.9322901061808748,True
+I’m having issues with the callback URL for my webhooks; it doesn’t seem to work.,api,api,0.6182889019753675,technical,0.27568160090563865,0.3426073010697288,True
+Is there a way to increase my api rate limit temporarily for a big project?,api,api,0.9889292049763998,billing,0.004614748695359019,0.9843144562810408,True
+Can you help me figure out how to move to the premium plan?,upgrade,upgrade,0.9396784138924424,api,0.025916584131308037,0.9137618297611344,True
+The video playback is choppy and keeps stopping; what’s going on?,technical,technical,0.897674310123649,api,0.030319735584313463,0.8673545745393355,True
+I'd love to switch to the Family plan. What do I need to do?,upgrade,upgrade,0.9647803924008233,api,0.015532037490748095,0.9492483549100752,True
+Can you guide me through the cancellation process? I want out.,cancellation,cancellation,0.5692541230563783,upgrade,0.16286879448887392,0.4063853285675044,True
+The customer feedback form isn't submitting; please check what's wrong.,technical,technical,0.5815241556639494,api,0.1436695036593303,0.43785465200461915,True
+Could you help me with the syncing feature? It never updates my files.,technical,technical,0.7154922475041695,billing,0.06801857334246753,0.647473674161702,True
+I’m not sure if I should go for the Premium or Business plan. Help me decide!,upgrade,upgrade,0.8806765126104644,api,0.04242592698960728,0.8382505856208572,True
+I've reached out multiple times and no one seems to care.,complaint,complaint,0.9585039126404321,technical,0.012699267635449788,0.9458046450049823,True
+Can I get a list of all available SDKs for different programming languages?,api,api,0.5905625604890342,billing,0.11083510722307266,0.47972745326596156,True
+Could you provide me with the steps to cancel my membership?,cancellation,cancellation,0.8672408257317692,upgrade,0.04764174218759668,0.8195990835441725,True
+"I tried to pay my invoice, but the system keeps giving me an error.",billing,technical,0.7287337690311051,billing,0.1717818228444363,0.5569519461866688,False
+I’m really frustrated with my current plan. How can I upgrade to something that better suits my needs?,upgrade,upgrade,0.9618396351298695,billing,0.010189164546474224,0.9516504705833952,True
+"Can I get a detailed statement of my account for last month, please?",billing,billing,0.8278590027150455,cancellation,0.10303403523006188,0.7248249674849836,True
+I’ve heard mixed things about the upgrade process. Can you clarify?,upgrade,upgrade,0.8171532230143039,billing,0.06493742965895553,0.7522157933553484,True
+Could you explain how to format the data when making a request to the API?,api,api,0.9685141380335099,upgrade,0.01578477779981143,0.9527293602336985,True
+I've lost all faith in your company after this experience.,complaint,complaint,0.9130549736591426,technical,0.033902252652900186,0.8791527210062424,True
+My integration is not sending data as expected. What could be wrong?,api,api,0.8324794569904069,complaint,0.04890708100751666,0.7835723759828903,True
+Can you explain why the app is so slow today? It feels like it's crawling.,technical,technical,0.9121270946220069,complaint,0.024013446991273658,0.8881136476307333,True
+I keep getting a 401 error when trying to authenticate. Any ideas?,api,api,0.806481026608873,technical,0.13843729946304553,0.6680437271458275,True

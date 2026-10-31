@@ -1,0 +1,3 @@
+model,validation_accuracy,validation_macro_f1
+word_tfidf,0.9880239520958084,0.988076961438532
+word_and_character_tfidf,0.9948674080410608,0.9948837757949632
